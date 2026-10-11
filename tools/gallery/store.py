@@ -1,6 +1,7 @@
 """Reads and writes the served tree under docs/ (catalog.json, categories/<id>/category.json, daily.json)."""
 from __future__ import annotations
 
+import hashlib
 import json
 import time
 from datetime import date
@@ -98,7 +99,8 @@ def build_catalog(docs: Path, today: str, order: list[str] | None = None) -> dic
     for i, cid in enumerate(ids):
         cat = load_category(docs, cid)
         live = active(cat, today)
-        cats.append({"id": cid, "title": cat["title"], "order": i, "count": len(live),
+        rev = hashlib.sha256(category_path(docs, cid).read_bytes()).hexdigest()[:10]  # apps refetch a category only when this changes
+        cats.append({"id": cid, "title": cat["title"], "order": i, "count": len(live), "rev": rev,
                      "cover": live[0]["thumb"] if live else None,
                      "path": f"categories/{cid}/category.json"})
     prev = read_json(docs / "catalog.json", {})

@@ -90,3 +90,11 @@ def test_retired_entries_stay_in_the_file_for_provenance(docs):
     add(docs)
     store.retire(docs, "art", "met-1")
     assert json.loads(store.category_path(docs, "art").read_text())["puzzles"][0]["status"] == "retired"
+
+
+def test_category_rev_changes_when_the_category_file_changes(docs):
+    add(docs)
+    before = store.build_catalog(docs, "2026-06-01")["categories"][0]["rev"]
+    store.retire(docs, "art", "met-1")
+    after = store.build_catalog(docs, "2026-06-01")["categories"][0]["rev"]
+    assert before != after and len(after) == 10
