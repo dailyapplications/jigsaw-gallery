@@ -162,7 +162,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.326,
+      "lookAlike": 0.333,
       "difficulty": 2,
       "maxPieces": 1000
     },
@@ -282,7 +282,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.5,
+      "lookAlike": 0.507,
       "difficulty": 3,
       "maxPieces": 1000
     },

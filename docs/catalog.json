@@ -21,7 +21,7 @@
       },
       "order": 0,
       "count": 22,
-      "rev": "2a98ed5694",
+      "rev": "ef1e812b1a",
       "cover": "categories/kids/thumb/143459c3e679.webp",
       "path": "categories/kids/category.json"
     },
@@ -43,8 +43,8 @@
         "hi": "रंगों की बहार"
       },
       "order": 1,
-      "count": 27,
-      "rev": "06154a2fc1",
+      "count": 38,
+      "rev": "354cf957b4",
       "cover": "categories/colour/thumb/dc7107d5fb60.webp",
       "path": "categories/colour/category.json"
     },
@@ -343,7 +343,7 @@
       },
       "order": 14,
       "count": 10,
-      "rev": "d780c3d827",
+      "rev": "ba6496ee2b",
       "cover": "categories/masterpieces/thumb/0d7b2782b357.webp",
       "path": "categories/masterpieces/category.json"
     },
@@ -366,7 +366,7 @@
       },
       "order": 15,
       "count": 11,
-      "rev": "efa7def794",
+      "rev": "9cf58d4f53",
       "cover": "categories/impressionism/thumb/25d48dce9a5b.webp",
       "path": "categories/impressionism/category.json"
     },
@@ -394,5 +394,5 @@
       "path": "categories/ukiyoe/category.json"
     }
   ],
-  "version": 1791717259
+  "version": 1791718379
 }

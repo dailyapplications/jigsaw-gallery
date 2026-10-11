@@ -14,7 +14,7 @@ def _set(docs, key, value):
 def _gallery(docs, n=3):
     for i in range(n):
         add(docs, str(i), color=(i * 40, 10, 10))
-    _set(docs, "difficulty", 1)   # flat test pictures are rated hard; the daily puzzle only uses easy and medium ones
+    _set(docs, "difficulty", 2)   # flat test pictures are rated hard; medium suits every weekday
 
 
 def test_fills_today_plus_horizon_days(docs):
@@ -34,7 +34,7 @@ def test_existing_days_are_never_rewritten(docs):
     _gallery(docs)
     first = schedule.build_daily(docs, date(2026, 6, 1))["days"]
     add(docs, "9", color=(99, 99, 99))
-    _set(docs, "difficulty", 1)
+    _set(docs, "difficulty", 2)
     again = schedule.build_daily(docs, date(2026, 6, 2))["days"]
     assert all(again[d] == first[d] for d in first if d in again)
 
@@ -52,13 +52,38 @@ def test_very_wide_images_are_not_used_as_daily_puzzle(docs):
     assert schedule.build_daily(docs, date(2026, 6, 1))["days"] == {}
 
 
-def test_hard_or_low_resolution_pictures_are_never_the_daily_puzzle(docs):
-    _gallery(docs, 2)
+def test_low_resolution_pictures_are_never_the_daily_puzzle(docs):
+    _gallery(docs, 1)
     cat = store.load_category(docs, "art")
-    cat["puzzles"][0]["difficulty"] = 3
-    cat["puzzles"][1]["maxPieces"] = 150
+    cat["puzzles"][0]["maxPieces"] = 150
     store.write_json(store.category_path(docs, "art"), cat)
     assert schedule.build_daily(docs, date(2026, 6, 1))["days"] == {}
+
+
+def _mixed(docs):
+    for i, level in enumerate((1, 2, 3)):
+        add(docs, str(i), color=(i * 40, 10, 10))
+    cat = store.load_category(docs, "art")
+    for x, level in zip(cat["puzzles"], (1, 2, 3)):
+        x["difficulty"] = level
+    store.write_json(store.category_path(docs, "art"), cat)
+
+
+def test_difficulty_follows_the_weekday(docs):
+    _mixed(docs)
+    days = schedule.build_daily(docs, date(2026, 6, 1))["days"]   # a Monday
+    assert days["2026-06-01"]["id"] == "met-0"    # Monday: easy
+    assert days["2026-06-03"]["id"] == "met-1"    # Wednesday: medium
+    assert days["2026-06-06"]["id"] == "met-2"    # Saturday: hard
+
+
+def test_missing_difficulty_falls_back_to_the_nearest_one(docs):
+    _mixed(docs)
+    cat = store.load_category(docs, "art")
+    cat["puzzles"][2]["difficulty"] = 1     # no hard picture left
+    store.write_json(store.category_path(docs, "art"), cat)
+    days = schedule.build_daily(docs, date(2026, 6, 1))["days"]
+    assert days["2026-06-06"]["id"] == "met-1"   # Saturday gets the nearest level (medium), not nothing
 
 
 def test_empty_gallery_produces_empty_schedule(docs):
