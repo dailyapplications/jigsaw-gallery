@@ -4,9 +4,17 @@ from conftest import add
 from tools.gallery import schedule, store
 
 
+def _set(docs, key, value):
+    cat = store.load_category(docs, "art")
+    for x in cat["puzzles"]:
+        x[key] = value
+    store.write_json(store.category_path(docs, "art"), cat)
+
+
 def _gallery(docs, n=3):
     for i in range(n):
         add(docs, str(i), color=(i * 40, 10, 10))
+    _set(docs, "difficulty", 1)   # flat test pictures are rated hard; the daily puzzle only uses easy and medium ones
 
 
 def test_fills_today_plus_horizon_days(docs):
@@ -26,6 +34,7 @@ def test_existing_days_are_never_rewritten(docs):
     _gallery(docs)
     first = schedule.build_daily(docs, date(2026, 6, 1))["days"]
     add(docs, "9", color=(99, 99, 99))
+    _set(docs, "difficulty", 1)
     again = schedule.build_daily(docs, date(2026, 6, 2))["days"]
     assert all(again[d] == first[d] for d in first if d in again)
 
@@ -40,6 +49,15 @@ def test_retired_puzzle_is_not_scheduled_for_new_days(docs):
 
 def test_very_wide_images_are_not_used_as_daily_puzzle(docs):
     add(docs, "wide", w=3600, h=1900)   # ratio 1.89 > 1.8
+    assert schedule.build_daily(docs, date(2026, 6, 1))["days"] == {}
+
+
+def test_hard_or_low_resolution_pictures_are_never_the_daily_puzzle(docs):
+    _gallery(docs, 2)
+    cat = store.load_category(docs, "art")
+    cat["puzzles"][0]["difficulty"] = 3
+    cat["puzzles"][1]["maxPieces"] = 150
+    store.write_json(store.category_path(docs, "art"), cat)
     assert schedule.build_daily(docs, date(2026, 6, 1))["days"] == {}
 
 

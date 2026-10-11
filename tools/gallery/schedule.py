@@ -1,6 +1,7 @@
 """daily.json: which puzzle is the "daily puzzle" for each date, generated days ahead so offline apps know it."""
 from __future__ import annotations
 
+import hashlib
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -15,9 +16,14 @@ def eligible(docs: Path, today: str) -> list[dict]:
     out = []
     for cid in store.category_ids(docs):
         for x in store.active(store.load_category(docs, cid), today):
-            if x["w"] / x["h"] <= DAILY_MAX_WIDTH_RATIO:
+            if x["w"] / x["h"] <= DAILY_MAX_WIDTH_RATIO and x.get("difficulty", 2) <= 2 and x.get("maxPieces", 0) >= 300:
                 out.append({"category": cid, "id": x["id"], "addedAt": x["addedAt"]})
-    return sorted(out, key=lambda e: (e["addedAt"], e["id"]))
+    return sorted(out, key=lambda e: (e["addedAt"], _shuffle_key(e["id"])))
+
+
+def _shuffle_key(puzzle_id: str) -> str:
+    """A stable pseudo-random order, so the daily puzzle does not walk through one category after another."""
+    return hashlib.sha256(puzzle_id.encode()).hexdigest()
 
 
 def build_daily(docs: Path, today: date) -> dict:
@@ -37,7 +43,7 @@ def build_daily(docs: Path, today: date) -> dict:
         if d in days:
             continue
         # a retired puzzle can no longer be chosen because `pool` only holds active ones
-        pick = min(pool, key=lambda e: (last_used.get(e["id"], ""), e["addedAt"], e["id"]))
+        pick = min(pool, key=lambda e: (last_used.get(e["id"], ""), e["addedAt"], _shuffle_key(e["id"])))
         days[d] = {"category": pick["category"], "id": pick["id"]}
         last_used[pick["id"]] = d
     result = {"days": dict(sorted(days.items()))}
