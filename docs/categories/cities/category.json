@@ -1,0 +1,372 @@
+{
+  "id": "cities",
+  "title": {
+    "en": "Cities & bridges",
+    "es": "Ciudades y puentes",
+    "pt-BR": "Cidades e pontes",
+    "fr": "Villes et ponts",
+    "de": "Städte & Brücken",
+    "it": "Città e ponti",
+    "ru": "Города и мосты",
+    "tr": "Şehirler ve köprüler",
+    "id": "Kota & jembatan",
+    "ar": "المدن والجسور",
+    "ja": "街と橋",
+    "ko": "도시와 다리",
+    "hi": "शहर और पुल"
+  },
+  "puzzles": [
+    {
+      "id": "commons-143198012",
+      "title": {
+        "en": "Snow-covered Quebec City skyline in fog"
+      },
+      "file": "categories/cities/img/674ec8eb486f.webp",
+      "thumb": "categories/cities/thumb/674ec8eb486f.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#abb0b9",
+      "difficulty": 1,
+      "lookAlike": 0.396,
+      "creator": "Wilfredor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snow-covered_Quebec_City_skyline_in_fog.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=143198012&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-36018638",
+      "title": {
+        "en": "Victoria Harbour skyscrapers"
+      },
+      "file": "categories/cities/img/5cfbed0df5df.webp",
+      "thumb": "categories/cities/thumb/5cfbed0df5df.webp",
+      "w": 1920,
+      "h": 1276,
+      "avgColor": "#402917",
+      "difficulty": 1,
+      "lookAlike": 0.222,
+      "creator": "Wilfredor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_Harbour_skyscrapers.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=36018638&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-134699719",
+      "title": {
+        "en": "Rio de Janeiro skyline and Sugarloaf Mountain at sunset, Brazil 3"
+      },
+      "file": "categories/cities/img/993e256e50fb.webp",
+      "thumb": "categories/cities/thumb/993e256e50fb.webp",
+      "w": 1920,
+      "h": 1174,
+      "avgColor": "#615e56",
+      "difficulty": 1,
+      "lookAlike": 0.326,
+      "creator": "Wilfredor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_skyline_and_Sugarloaf_Mountain_at_sunset,_Brazil_3.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=134699719&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-95206524",
+      "title": {
+        "en": "Price Building illuminated at night in Quebec City"
+      },
+      "file": "categories/cities/img/353c450990d2.webp",
+      "thumb": "categories/cities/thumb/353c450990d2.webp",
+      "w": 1920,
+      "h": 1248,
+      "avgColor": "#4f475a",
+      "difficulty": 1,
+      "lookAlike": 0.375,
+      "creator": "Wilfredor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Price_Building_illuminated_at_night_in_Quebec_City.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=95206524&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-26955009",
+      "title": {
+        "en": "Széchenyi Chain Bridge in Budapest at night"
+      },
+      "file": "categories/cities/img/310d4748849a.webp",
+      "thumb": "categories/cities/thumb/310d4748849a.webp",
+      "w": 1920,
+      "h": 1073,
+      "avgColor": "#483317",
+      "difficulty": 1,
+      "lookAlike": 0.368,
+      "creator": "Wilfredor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sz%C3%A9chenyi_Chain_Bridge_in_Budapest_at_night.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=26955009&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 500
+    },
+    {
+      "id": "commons-30172578",
+      "title": {
+        "en": "Saint Peter's Basilica, Sant'Angelo bridge, by night, Rome, Italy"
+      },
+      "file": "categories/cities/img/ad7076a2bbe6.webp",
+      "thumb": "categories/cities/thumb/ad7076a2bbe6.webp",
+      "w": 1920,
+      "h": 1278,
+      "avgColor": "#3d2918",
+      "difficulty": 2,
+      "lookAlike": 0.486,
+      "creator": "Jebulon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica,_Sant%27Angelo_bridge,_by_night,_Rome,_Italy.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=30172578&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-30683945",
+      "title": {
+        "en": "Sant'Angelo bridge, dusk, Rome, Italy"
+      },
+      "file": "categories/cities/img/dbf3289895d4.webp",
+      "thumb": "categories/cities/thumb/dbf3289895d4.webp",
+      "w": 1920,
+      "h": 966,
+      "avgColor": "#4f5a5e",
+      "difficulty": 1,
+      "lookAlike": 0.382,
+      "creator": "Jebulon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sant%27Angelo_bridge,_dusk,_Rome,_Italy.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=30683945&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 500
+    },
+    {
+      "id": "commons-196854818",
+      "title": {
+        "en": "Tower Bridge seen at night (2026)"
+      },
+      "file": "categories/cities/img/a60d13d607f3.webp",
+      "thumb": "categories/cities/thumb/a60d13d607f3.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#484845",
+      "difficulty": 2,
+      "lookAlike": 0.465,
+      "creator": "ThatsTheBoss",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_seen_at_night_(2026).jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=196854818&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-49540795",
+      "title": {
+        "en": "Aegina sunset"
+      },
+      "file": "categories/cities/img/766cea374f83.webp",
+      "thumb": "categories/cities/thumb/766cea374f83.webp",
+      "w": 1920,
+      "h": 1233,
+      "avgColor": "#747670",
+      "difficulty": 2,
+      "lookAlike": 0.41,
+      "creator": "Jebulon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aegina_sunset.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=49540795&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-95206526",
+      "title": {
+        "en": "Chateau Frontenac illuminated at night in Quebec City"
+      },
+      "file": "categories/cities/img/238bba0fd1f2.webp",
+      "thumb": "categories/cities/thumb/238bba0fd1f2.webp",
+      "w": 1920,
+      "h": 1229,
+      "avgColor": "#54463e",
+      "difficulty": 1,
+      "lookAlike": 0.299,
+      "creator": "Wilfredor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chateau_Frontenac_illuminated_at_night_in_Quebec_City.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=95206526&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-147381266",
+      "title": {
+        "en": "The Brooklyn Bridge From Manhattan to Brooklyn"
+      },
+      "file": "categories/cities/img/ed7521754c90.webp",
+      "thumb": "categories/cities/thumb/ed7521754c90.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#7f8b9c",
+      "difficulty": 1,
+      "lookAlike": 0.201,
+      "creator": "Summermother",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Brooklyn_Bridge_From_Manhattan_to_Brooklyn.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=147381266&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    }
+  ]
+}

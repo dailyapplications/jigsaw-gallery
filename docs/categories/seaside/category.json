@@ -1,0 +1,372 @@
+{
+  "id": "seaside",
+  "title": {
+    "en": "Sea & shores",
+    "es": "Mar y costas",
+    "pt-BR": "Mar e praias",
+    "fr": "Mer et rivages",
+    "de": "Meer & Küsten",
+    "it": "Mare e coste",
+    "ru": "Море и берега",
+    "tr": "Deniz ve kıyılar",
+    "id": "Laut & pantai",
+    "ar": "البحر والشواطئ",
+    "ja": "海と海岸",
+    "ko": "바다와 해변",
+    "hi": "समुद्र और तट"
+  },
+  "puzzles": [
+    {
+      "id": "commons-36289052",
+      "title": {
+        "en": "Parasols, Evening, Beach, Rincon de la Victoria, Andalusia, Spain"
+      },
+      "file": "categories/seaside/img/989556cf9616.webp",
+      "thumb": "categories/seaside/thumb/989556cf9616.webp",
+      "w": 1920,
+      "h": 1278,
+      "avgColor": "#928a76",
+      "difficulty": 3,
+      "lookAlike": 0.604,
+      "creator": "Jebulon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parasols,_Evening,_Beach,_Rincon_de_la_Victoria,_Andalusia,_Spain.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=36289052&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-159603808",
+      "title": {
+        "en": "Serene Tropical Beach with Boat"
+      },
+      "file": "categories/seaside/img/e410b422b559.webp",
+      "thumb": "categories/seaside/thumb/e410b422b559.webp",
+      "w": 1365,
+      "h": 2048,
+      "avgColor": "#9ea5a4",
+      "difficulty": 3,
+      "lookAlike": 0.625,
+      "creator": "Diyes4971",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serene_Tropical_Beach_with_Boat.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=159603808&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-39148138",
+      "title": {
+        "en": "Komos site baie Crète"
+      },
+      "file": "categories/seaside/img/5cef8ebcb850.webp",
+      "thumb": "categories/seaside/thumb/5cef8ebcb850.webp",
+      "w": 1920,
+      "h": 1230,
+      "avgColor": "#7d9796",
+      "difficulty": 1,
+      "lookAlike": 0.319,
+      "creator": "Jebulon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komos_site_baie_Cr%C3%A8te.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=39148138&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-146957190",
+      "title": {
+        "en": "Corcovado National Park, Costa RIca 02"
+      },
+      "file": "categories/seaside/img/142dfc8d0936.webp",
+      "thumb": "categories/seaside/thumb/142dfc8d0936.webp",
+      "w": 1920,
+      "h": 1175,
+      "avgColor": "#8b9599",
+      "difficulty": 1,
+      "lookAlike": 0.264,
+      "creator": "Bernard Gagnon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corcovado_National_Park,_Costa_RIca_02.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=146957190&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-187402117",
+      "title": {
+        "en": "Pegeia, Cyprus, sunset at sea caves"
+      },
+      "file": "categories/seaside/img/260b90645827.webp",
+      "thumb": "categories/seaside/thumb/260b90645827.webp",
+      "w": 1920,
+      "h": 1440,
+      "avgColor": "#786860",
+      "difficulty": 2,
+      "lookAlike": 0.444,
+      "creator": "Gerda Arendt",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pegeia,_Cyprus,_sunset_at_sea_caves.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=187402117&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-114833584",
+      "title": {
+        "en": "Sunset over the sea near Sozopol"
+      },
+      "file": "categories/seaside/img/0b9087b108ff.webp",
+      "thumb": "categories/seaside/thumb/0b9087b108ff.webp",
+      "w": 1920,
+      "h": 1302,
+      "avgColor": "#91878e",
+      "difficulty": 1,
+      "lookAlike": 0.229,
+      "creator": "Ivano Giambattista",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_sea_near_Sozopol.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=114833584&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-167863786",
+      "title": {
+        "en": "Sunset by the Sea, Vlore"
+      },
+      "file": "categories/seaside/img/565f6356e559.webp",
+      "thumb": "categories/seaside/thumb/565f6356e559.webp",
+      "w": 1920,
+      "h": 1440,
+      "avgColor": "#867a74",
+      "difficulty": 1,
+      "lookAlike": 0.375,
+      "creator": "Albert1339",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_by_the_Sea,_Vlore.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=167863786&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-41089137",
+      "title": {
+        "en": "Lighthouse Chania evening sun"
+      },
+      "file": "categories/seaside/img/b8cca8788f1f.webp",
+      "thumb": "categories/seaside/thumb/b8cca8788f1f.webp",
+      "w": 1920,
+      "h": 1261,
+      "avgColor": "#888a85",
+      "difficulty": 2,
+      "lookAlike": 0.465,
+      "creator": "Jebulon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_Chania_evening_sun.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=41089137&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-43704187",
+      "title": {
+        "en": "Lighthouse, harbor Saint-Martin-de-Ré, Ré island, Charente-Maritime, France"
+      },
+      "file": "categories/seaside/img/8b2857c868a1.webp",
+      "thumb": "categories/seaside/thumb/8b2857c868a1.webp",
+      "w": 1920,
+      "h": 1278,
+      "avgColor": "#697e83",
+      "difficulty": 3,
+      "lookAlike": 0.757,
+      "creator": "Jebulon",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse,_harbor_Saint-Martin-de-R%C3%A9,_R%C3%A9_island,_Charente-Maritime,_France.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=43704187&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-91111402",
+      "title": {
+        "en": "Belle Tout Lighthouse, June 2020 01"
+      },
+      "file": "categories/seaside/img/5678014f227f.webp",
+      "thumb": "categories/seaside/thumb/5678014f227f.webp",
+      "w": 1920,
+      "h": 1440,
+      "avgColor": "#6e839b",
+      "difficulty": 1,
+      "lookAlike": 0.208,
+      "creator": "Poliphilo",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belle_Tout_Lighthouse,_June_2020_01.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=91111402&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-83991797",
+      "title": {
+        "en": "Sunset at Thalassery sea bridge "
+      },
+      "file": "categories/seaside/img/1ff4ea8fb3ba.webp",
+      "thumb": "categories/seaside/thumb/1ff4ea8fb3ba.webp",
+      "w": 1920,
+      "h": 1080,
+      "avgColor": "#7e675f",
+      "difficulty": 1,
+      "lookAlike": 0.097,
+      "creator": "Shagil Kannur",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_at_Thalassery_sea_bridge_.jpeg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=83991797&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "id": "pets",
+  "title": {
+    "en": "Cats & dogs",
+    "es": "Gatos y perros",
+    "pt-BR": "Gatos e cães",
+    "fr": "Chats et chiens",
+    "de": "Katzen & Hunde",
+    "it": "Gatti e cani",
+    "ru": "Кошки и собаки",
+    "tr": "Kediler ve köpekler",
+    "id": "Kucing & anjing",
+    "ar": "القطط والكلاب",
+    "ja": "猫と犬",
+    "ko": "고양이와 강아지",
+    "hi": "बिल्लियाँ और कुत्ते"
+  },
+  "puzzles": [
+    {
+      "id": "commons-143121979",
+      "title": {
+        "en": "Cat shrimp"
+      },
+      "file": "categories/pets/img/bb51c5b4c271.webp",
+      "thumb": "categories/pets/thumb/bb51c5b4c271.webp",
+      "w": 1632,
+      "h": 2048,
+      "avgColor": "#6b5330",
+      "difficulty": 3,
+      "lookAlike": 0.66,
+      "creator": "Rirzog",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cat_shrimp.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=143121979&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-183770272",
+      "title": {
+        "en": "White and gray silverpoint domestic cat lying down in basket"
+      },
+      "file": "categories/pets/img/bcbdb1d09be6.webp",
+      "thumb": "categories/pets/thumb/bcbdb1d09be6.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#5a5854",
+      "difficulty": 1,
+      "lookAlike": 0.382,
+      "creator": "Poryden",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_and_gray_silverpoint_domestic_cat_lying_down_in_basket.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=183770272&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-159418977",
+      "title": {
+        "en": "SZ 深圳 Shenzhen 寶安 BaoAn 萬豐大仟里 MaxLand Mall shop 屋虎貓館 Woo Hoo Pet Cat House February 2025 R"
+      },
+      "file": "categories/pets/img/70d787d2460d.webp",
+      "thumb": "categories/pets/thumb/70d787d2460d.webp",
+      "w": 1920,
+      "h": 1440,
+      "avgColor": "#9d978a",
+      "difficulty": 1,
+      "lookAlike": 0.285,
+      "creator": "LAAePSts Lusnsaz WHA",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90%E5%A4%A7%E4%BB%9F%E9%87%8C_MaxLand_Mall_shop_%E5%B1%8B%E8%99%8E%E8%B2%93%E9%A4%A8_Woo_Hoo_Pet_Cat_House_February_2025_R12S_white_05.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=159418977&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-76097663",
+      "title": {
+        "en": "Young tabby cat keeping watch"
+      },
+      "file": "categories/pets/img/58a4836139d2.webp",
+      "thumb": "categories/pets/thumb/58a4836139d2.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#535f66",
+      "difficulty": 1,
+      "lookAlike": 0.396,
+      "creator": "W.carter",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Young_tabby_cat_keeping_watch.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=76097663&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-147230400",
+      "title": {
+        "en": "Ginger kitten with an orange rubber rugby"
+      },
+      "file": "categories/pets/img/25179c378cff.webp",
+      "thumb": "categories/pets/thumb/25179c378cff.webp",
+      "w": 1920,
+      "h": 2036,
+      "avgColor": "#7d755b",
+      "difficulty": 1,
+      "lookAlike": 0.361,
+      "creator": "Aiaikz",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ginger_kitten_with_an_orange_rubber_rugby.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=147230400&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-148465188",
+      "title": {
+        "en": "Kitten Looking"
+      },
+      "file": "categories/pets/img/534e52b2353f.webp",
+      "thumb": "categories/pets/thumb/534e52b2353f.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#a07c61",
+      "difficulty": 1,
+      "lookAlike": 0.396,
+      "creator": "Saral Shots",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitten_Looking.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=148465188&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-61369169",
+      "title": {
+        "en": "Dog at Nørre Vorupør Strand"
+      },
+      "file": "categories/pets/img/48d808a0429d.webp",
+      "thumb": "categories/pets/thumb/48d808a0429d.webp",
+      "w": 1920,
+      "h": 1637,
+      "avgColor": "#8f8c85",
+      "difficulty": 1,
+      "lookAlike": 0.278,
+      "creator": "W.carter",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dog_at_N%C3%B8rre_Vorup%C3%B8r_Strand.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=61369169&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-116675288",
+      "title": {
+        "en": "Boxer (dog) , Iran 08"
+      },
+      "file": "categories/pets/img/afa83c3de287.webp",
+      "thumb": "categories/pets/thumb/afa83c3de287.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#767465",
+      "difficulty": 1,
+      "lookAlike": 0.382,
+      "creator": "Mostafameraji",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boxer_(dog)_,_Iran_08.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=116675288&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-163829632",
+      "title": {
+        "en": "Dog resting on the grass"
+      },
+      "file": "categories/pets/img/e24240a85e2d.webp",
+      "thumb": "categories/pets/thumb/e24240a85e2d.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#506132",
+      "difficulty": 3,
+      "lookAlike": 0.681,
+      "creator": "Joselodos",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dog_resting_on_the_grass.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=163829632&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-65257801",
+      "title": {
+        "en": "Two French bulldogs swimming in life jackets"
+      },
+      "file": "categories/pets/img/e1bd7e2470c3.webp",
+      "thumb": "categories/pets/thumb/e1bd7e2470c3.webp",
+      "w": 1920,
+      "h": 1080,
+      "avgColor": "#47525d",
+      "difficulty": 3,
+      "lookAlike": 0.674,
+      "creator": "W.carter",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_French_bulldogs_swimming_in_life_jackets.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=65257801&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    }
+  ]
+}

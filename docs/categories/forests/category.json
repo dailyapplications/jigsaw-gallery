@@ -1,0 +1,372 @@
+{
+  "id": "forests",
+  "title": {
+    "en": "Forests & autumn",
+    "es": "Bosques y otoño",
+    "pt-BR": "Florestas e outono",
+    "fr": "Forêts et automne",
+    "de": "Wälder & Herbst",
+    "it": "Foreste e autunno",
+    "ru": "Леса и осень",
+    "tr": "Ormanlar ve sonbahar",
+    "id": "Hutan & musim gugur",
+    "ar": "الغابات والخريف",
+    "ja": "森と秋",
+    "ko": "숲과 가을",
+    "hi": "जंगल और पतझड़"
+  },
+  "puzzles": [
+    {
+      "id": "commons-159339014",
+      "title": {
+        "en": "Autumn Forest Path with Tall Trees"
+      },
+      "file": "categories/forests/img/9b9e8d4362cd.webp",
+      "thumb": "categories/forests/thumb/9b9e8d4362cd.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#5f5540",
+      "difficulty": 1,
+      "lookAlike": 0.319,
+      "creator": "Vovogov90",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_Forest_Path_with_Tall_Trees.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=159339014&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-165290650",
+      "title": {
+        "en": "Serene Forest Pathway in Early Autumn"
+      },
+      "file": "categories/forests/img/99e66e966aa5.webp",
+      "thumb": "categories/forests/thumb/99e66e966aa5.webp",
+      "w": 1365,
+      "h": 2048,
+      "avgColor": "#595631",
+      "difficulty": 1,
+      "lookAlike": 0.111,
+      "creator": "Fagaden9",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serene_Forest_Pathway_in_Early_Autumn.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=165290650&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-156423155",
+      "title": {
+        "en": "Autumn leaves Все краски осени Листья клена 21"
+      },
+      "file": "categories/forests/img/9befd765b39d.webp",
+      "thumb": "categories/forests/thumb/9befd765b39d.webp",
+      "w": 1920,
+      "h": 1237,
+      "avgColor": "#997753",
+      "difficulty": 1,
+      "lookAlike": 0.264,
+      "creator": "Tsyganov Sergey",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_leaves_%D0%92%D1%81%D0%B5_%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B8_%D0%BE%D1%81%D0%B5%D0%BD%D0%B8_%D0%9B%D0%B8%D1%81%D1%82%D1%8C%D1%8F_%D0%BA%D0%BB%D0%B5%D0%BD%D0%B0_21.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=156423155&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-84153900",
+      "title": {
+        "en": "Colorful leaves in autumn"
+      },
+      "file": "categories/forests/img/01b011aa8ad4.webp",
+      "thumb": "categories/forests/thumb/01b011aa8ad4.webp",
+      "w": 1920,
+      "h": 1541,
+      "avgColor": "#867960",
+      "difficulty": 1,
+      "lookAlike": 0.389,
+      "creator": "Tbk1101",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colorful_leaves_in_autumn.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=84153900&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-11726828",
+      "title": {
+        "en": "Autumn Leaves Montreal"
+      },
+      "file": "categories/forests/img/86e171d27975.webp",
+      "thumb": "categories/forests/thumb/86e171d27975.webp",
+      "w": 1920,
+      "h": 1440,
+      "avgColor": "#847940",
+      "difficulty": 1,
+      "lookAlike": 0.014,
+      "creator": "Velatrix",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_Leaves_Montreal.JPG",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=11726828&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-128730929",
+      "title": {
+        "en": "Autumn leaves, Valea Morilor park"
+      },
+      "file": "categories/forests/img/8a7c6bda8646.webp",
+      "thumb": "categories/forests/thumb/8a7c6bda8646.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#9e6f47",
+      "difficulty": 1,
+      "lookAlike": 0.194,
+      "creator": "Iurie Nistor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_leaves,_Valea_Morilor_park.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=128730929&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-64299164",
+      "title": {
+        "en": "Oak leaves with autumn coloration"
+      },
+      "file": "categories/forests/img/563bf7750f80.webp",
+      "thumb": "categories/forests/thumb/563bf7750f80.webp",
+      "w": 1538,
+      "h": 2048,
+      "avgColor": "#cdc6be",
+      "difficulty": 2,
+      "lookAlike": 0.549,
+      "creator": "Stanature",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oak_leaves_with_autumn_coloration.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=64299164&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-168731500",
+      "title": {
+        "en": "Wooden path in the forest on the trail to Trebević"
+      },
+      "file": "categories/forests/img/0d7c7fd824e6.webp",
+      "thumb": "categories/forests/thumb/0d7c7fd824e6.webp",
+      "w": 1844,
+      "h": 1468,
+      "avgColor": "#4d6c4e",
+      "difficulty": 1,
+      "lookAlike": 0.319,
+      "creator": "Michalgwo",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wooden_path_in_the_forest_on_the_trail_to_Trebevi%C4%87.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=168731500&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-177891283",
+      "title": {
+        "en": "Forest in Ahrensfelde 2025-11-01 09"
+      },
+      "file": "categories/forests/img/b8fbc64edf3d.webp",
+      "thumb": "categories/forests/thumb/b8fbc64edf3d.webp",
+      "w": 1792,
+      "h": 1194,
+      "avgColor": "#554537",
+      "difficulty": 1,
+      "lookAlike": 0.285,
+      "creator": "Leonhard Lenz",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Forest_in_Ahrensfelde_2025-11-01_09.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=177891283&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-128730952",
+      "title": {
+        "en": "Autumn leaves, Valea Morilor park 1"
+      },
+      "file": "categories/forests/img/52b498e60318.webp",
+      "thumb": "categories/forests/thumb/52b498e60318.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#9d7f41",
+      "difficulty": 1,
+      "lookAlike": 0.139,
+      "creator": "Iurie Nistor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_leaves,_Valea_Morilor_park_1.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=128730952&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-174848793",
+      "title": {
+        "en": "Path in Highpark Wood 2025-09-08"
+      },
+      "file": "categories/forests/img/f17b15f35327.webp",
+      "thumb": "categories/forests/thumb/f17b15f35327.webp",
+      "w": 1349,
+      "h": 1792,
+      "avgColor": "#4e5943",
+      "difficulty": 1,
+      "lookAlike": 0.361,
+      "creator": "Andy Li",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Path_in_Highpark_Wood_2025-09-08.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=174848793&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    }
+  ]
+}

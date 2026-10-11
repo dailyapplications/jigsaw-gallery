@@ -1,0 +1,322 @@
+{
+  "id": "masterpieces",
+  "title": {
+    "en": "Old masters",
+    "es": "Grandes maestros",
+    "pt-BR": "Grandes mestres",
+    "fr": "Grands maîtres",
+    "de": "Alte Meister",
+    "it": "Grandi maestri",
+    "ru": "Старые мастера",
+    "tr": "Usta ressamlar",
+    "id": "Maestro lukisan",
+    "ar": "الأساتذة القدامى",
+    "ja": "巨匠の名画",
+    "ko": "거장의 명화",
+    "hi": "महान चित्रकार"
+  },
+  "puzzles": [
+    {
+      "id": "met-437878",
+      "title": {
+        "en": "A Maid Asleep"
+      },
+      "file": "categories/masterpieces/img/0d7b2782b357.webp",
+      "thumb": "categories/masterpieces/thumb/0d7b2782b357.webp",
+      "w": 1785,
+      "h": 2048,
+      "avgColor": "#32241c",
+      "creator": "Johannes Vermeer",
+      "year": 1657,
+      "deathYear": 1675,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437878",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437878"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.701,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437877",
+      "title": {
+        "en": "Allegory of the Catholic Faith"
+      },
+      "file": "categories/masterpieces/img/4e300e08085f.webp",
+      "thumb": "categories/masterpieces/thumb/4e300e08085f.webp",
+      "w": 1598,
+      "h": 2048,
+      "avgColor": "#38342b",
+      "creator": "Johannes Vermeer",
+      "year": 1672,
+      "deathYear": 1675,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437877",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437877"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.688,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437881",
+      "title": {
+        "en": "Young Woman with a Water Pitcher"
+      },
+      "file": "categories/masterpieces/img/ed1036ba31cf.webp",
+      "thumb": "categories/masterpieces/thumb/ed1036ba31cf.webp",
+      "w": 1821,
+      "h": 2048,
+      "avgColor": "#514d43",
+      "creator": "Johannes Vermeer",
+      "year": 1667,
+      "deathYear": 1675,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437881",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437881"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.389,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437879",
+      "title": {
+        "en": "Study of a Young Woman"
+      },
+      "file": "categories/masterpieces/img/3b531c0d1d41.webp",
+      "thumb": "categories/masterpieces/thumb/3b531c0d1d41.webp",
+      "w": 1830,
+      "h": 2048,
+      "avgColor": "#2f2b23",
+      "creator": "Johannes Vermeer",
+      "year": 1667,
+      "deathYear": 1675,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437879",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437879"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.632,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437880",
+      "title": {
+        "en": "Young Woman with a Lute"
+      },
+      "file": "categories/masterpieces/img/7378c6799f82.webp",
+      "thumb": "categories/masterpieces/thumb/7378c6799f82.webp",
+      "w": 1786,
+      "h": 2048,
+      "avgColor": "#322c21",
+      "creator": "Johannes Vermeer",
+      "year": 1663,
+      "deathYear": 1675,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437880",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437880"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.701,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "smk-KMS250",
+      "title": {
+        "en": "Blomster"
+      },
+      "file": "categories/masterpieces/img/7124d20f967c.webp",
+      "thumb": "categories/masterpieces/thumb/7124d20f967c.webp",
+      "w": 1635,
+      "h": 2048,
+      "avgColor": "#352b20",
+      "creator": "Hendrik Schoock",
+      "year": 1707,
+      "deathYear": 1707,
+      "source": "smk",
+      "sourceUrl": "https://open.smk.dk/artwork/image/KMS250",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "public_domain": true,
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "api": "https://api.smk.dk/api/v1/art/?object_number=KMS250"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.792,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "smk-KMS4002",
+      "title": {
+        "en": "Den syge pige"
+      },
+      "file": "categories/masterpieces/img/a036159cdf09.webp",
+      "thumb": "categories/masterpieces/thumb/a036159cdf09.webp",
+      "w": 2048,
+      "h": 1925,
+      "avgColor": "#9e8d84",
+      "creator": "Michael Ancher",
+      "year": 1882,
+      "deathYear": 1927,
+      "source": "smk",
+      "sourceUrl": "https://open.smk.dk/artwork/image/KMS4002",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "public_domain": true,
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "api": "https://api.smk.dk/api/v1/art/?object_number=KMS4002"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.361,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-131338",
+      "title": {
+        "en": "Flüelen, from the Lake of Lucerne"
+      },
+      "file": "categories/masterpieces/img/9a3fb5108c70.webp",
+      "thumb": "categories/masterpieces/thumb/9a3fb5108c70.webp",
+      "w": 2048,
+      "h": 1252,
+      "avgColor": "#c1a984",
+      "creator": "Joseph Mallord William Turner",
+      "year": 1850,
+      "deathYear": 1851,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1954.129",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/131338"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.292,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-157083",
+      "title": {
+        "en": "Cliffs by the Sea at Cézembre, Brittany"
+      },
+      "file": "categories/masterpieces/img/93e889171547.webp",
+      "thumb": "categories/masterpieces/thumb/93e889171547.webp",
+      "w": 2048,
+      "h": 1506,
+      "avgColor": "#6d6559",
+      "creator": "Eugène Isabey",
+      "year": 1835,
+      "deathYear": 1886,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1993.218",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/157083"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.403,
+      "difficulty": 2,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437825",
+      "title": {
+        "en": "Portrait of a Man"
+      },
+      "file": "categories/masterpieces/img/a6d1dae4ce53.webp",
+      "thumb": "categories/masterpieces/thumb/a6d1dae4ce53.webp",
+      "w": 1841,
+      "h": 2048,
+      "avgColor": "#29211a",
+      "creator": "Titian (Tiziano Vecellio)",
+      "year": 1520,
+      "deathYear": 1576,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437825",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437825"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.792,
+      "difficulty": 3,
+      "maxPieces": 1000
+    }
+  ]
+}

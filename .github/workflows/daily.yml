@@ -1,0 +1,23 @@
+name: daily
+# Rebuilds catalog.json / daily.json every day (publishAt dates, daily puzzle schedule) and commits changes.
+on:
+  schedule: [{ cron: "7 0 * * *" }]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pillow
+      - run: python -m tools.gallery.cli build
+      - run: python -m tools.gallery.cli validate
+      - name: Commit if changed
+        run: |
+          git config user.name "gallery-bot"
+          git config user.email "gallery-bot@users.noreply.github.com"
+          git add -A docs LICENSES.md
+          git diff --cached --quiet || git commit -m "Daily rebuild" && git push

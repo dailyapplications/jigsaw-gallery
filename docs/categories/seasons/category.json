@@ -1,0 +1,372 @@
+{
+  "id": "seasons",
+  "title": {
+    "en": "Seasons & holidays",
+    "es": "Estaciones y fiestas",
+    "pt-BR": "Estações e festas",
+    "fr": "Saisons et fêtes",
+    "de": "Jahreszeiten & Feste",
+    "it": "Stagioni e feste",
+    "ru": "Времена года и праздники",
+    "tr": "Mevsimler ve bayramlar",
+    "id": "Musim & hari raya",
+    "ar": "الفصول والأعياد",
+    "ja": "季節と行事",
+    "ko": "계절과 명절",
+    "hi": "मौसम और त्योहार"
+  },
+  "puzzles": [
+    {
+      "id": "commons-75428185",
+      "title": {
+        "en": "Early winter snow falls on KLO Creek"
+      },
+      "file": "categories/seasons/img/4b1f10591a8e.webp",
+      "thumb": "categories/seasons/thumb/4b1f10591a8e.webp",
+      "w": 1920,
+      "h": 1443,
+      "avgColor": "#5b5a58",
+      "difficulty": 1,
+      "lookAlike": 0.312,
+      "creator": "Extemporalist",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Early_winter_snow_falls_on_KLO_Creek.png",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=75428185&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-185116316",
+      "title": {
+        "en": "Winter trees Snow"
+      },
+      "file": "categories/seasons/img/a1584cb33026.webp",
+      "thumb": "categories/seasons/thumb/a1584cb33026.webp",
+      "w": 1920,
+      "h": 1688,
+      "avgColor": "#759cad",
+      "difficulty": 3,
+      "lookAlike": 0.688,
+      "creator": "Tsyganov Sergey",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winter_trees_Snow.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=185116316&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-147066413",
+      "title": {
+        "en": "Pumpkin Sitting on Sauvie Island"
+      },
+      "file": "categories/seasons/img/70b7413ba3ff.webp",
+      "thumb": "categories/seasons/thumb/70b7413ba3ff.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#9a775a",
+      "difficulty": 1,
+      "lookAlike": 0.285,
+      "creator": "Turtle21680",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pumpkin_Sitting_on_Sauvie_Island.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=147066413&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-44483060",
+      "title": {
+        "en": "October Pumpkin Stand"
+      },
+      "file": "categories/seasons/img/03c67d4c136e.webp",
+      "thumb": "categories/seasons/thumb/03c67d4c136e.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#977574",
+      "difficulty": 1,
+      "lookAlike": 0.201,
+      "creator": "Liam Ferguson",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:October_Pumpkin_Stand.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=44483060&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-149269157",
+      "title": {
+        "en": "Christmas tree at farm"
+      },
+      "file": "categories/seasons/img/9d82d9ec37da.webp",
+      "thumb": "categories/seasons/thumb/9d82d9ec37da.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#647c82",
+      "difficulty": 2,
+      "lookAlike": 0.403,
+      "creator": "JoyD Smiths PTMr8",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christmas_tree_at_farm.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=149269157&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-149269159",
+      "title": {
+        "en": "Decorated christmas tree (america)"
+      },
+      "file": "categories/seasons/img/8e105849a7c0.webp",
+      "thumb": "categories/seasons/thumb/8e105849a7c0.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#79705e",
+      "difficulty": 1,
+      "lookAlike": 0.167,
+      "creator": "JoyD Smiths PTMr8",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Decorated_christmas_tree_(america).jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=149269159&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-193842982",
+      "title": {
+        "en": "Christmas tree (22622)"
+      },
+      "file": "categories/seasons/img/4ba753eec0f9.webp",
+      "thumb": "categories/seasons/thumb/4ba753eec0f9.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#72767b",
+      "difficulty": 1,
+      "lookAlike": 0.146,
+      "creator": "Maximden",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christmas_tree_(22622).jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=193842982&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-108347901",
+      "title": {
+        "en": "Christmas Tree on Regent Street St James"
+      },
+      "file": "categories/seasons/img/ddf34107b7a3.webp",
+      "thumb": "categories/seasons/thumb/ddf34107b7a3.webp",
+      "w": 1920,
+      "h": 1794,
+      "avgColor": "#452d1f",
+      "difficulty": 1,
+      "lookAlike": 0.389,
+      "creator": "VirtuallyLondonBecky",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christmas_Tree_on_Regent_Street_St_James.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=108347901&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-104195753",
+      "title": {
+        "en": "Cherry blossom trees in Bemmel"
+      },
+      "file": "categories/seasons/img/bdffb1691ef6.webp",
+      "thumb": "categories/seasons/thumb/bdffb1691ef6.webp",
+      "w": 1920,
+      "h": 1359,
+      "avgColor": "#888881",
+      "difficulty": 2,
+      "lookAlike": 0.403,
+      "creator": "Lendskaip",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_blossom_trees_in_Bemmel.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=104195753&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-30507413",
+      "title": {
+        "en": "Cherry blossom trees during the spring."
+      },
+      "file": "categories/seasons/img/429b25611b16.webp",
+      "thumb": "categories/seasons/thumb/429b25611b16.webp",
+      "w": 1920,
+      "h": 1286,
+      "avgColor": "#7b7f6d",
+      "difficulty": 1,
+      "lookAlike": 0.278,
+      "creator": "Bruce Emmerling",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_blossom_trees_during_the_spring..jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=30507413&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "commons-146357795",
+      "title": {
+        "en": "Pear Blossom in Sanski Most"
+      },
+      "file": "categories/seasons/img/c1e68eb269c3.webp",
+      "thumb": "categories/seasons/thumb/c1e68eb269c3.webp",
+      "w": 1536,
+      "h": 2048,
+      "avgColor": "#6a8254",
+      "difficulty": 1,
+      "lookAlike": 0.049,
+      "creator": "Đana Talić",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pear_Blossom_in_Sanski_Most.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=146357795&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    }
+  ]
+}

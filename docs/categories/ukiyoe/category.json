@@ -1,0 +1,381 @@
+{
+  "id": "ukiyoe",
+  "title": {
+    "en": "Japanese prints",
+    "es": "Grabados japoneses",
+    "pt-BR": "Gravuras japonesas",
+    "fr": "Estampes japonaises",
+    "de": "Japanische Holzschnitte",
+    "it": "Stampe giapponesi",
+    "ru": "Японская гравюра",
+    "tr": "Japon baskıları",
+    "id": "Cetakan Jepang",
+    "ar": "المطبوعات اليابانية",
+    "ja": "浮世絵",
+    "ko": "일본 판화",
+    "hi": "जापानी प्रिंट"
+  },
+  "puzzles": [
+    {
+      "id": "met-37193",
+      "title": {
+        "en": "Seaside Village in Winter, from Hokusai’s Album of Realistic Pictures (Hokusai shashin gaf"
+      },
+      "file": "categories/ukiyoe/img/3c9d9e825d2e.webp",
+      "thumb": "categories/ukiyoe/thumb/3c9d9e825d2e.webp",
+      "w": 1915,
+      "h": 1218,
+      "avgColor": "#d0bda3",
+      "creator": "Katsushika Hokusai",
+      "year": 1814,
+      "deathYear": 1849,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/37193",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/37193"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.646,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-54305",
+      "title": {
+        "en": "Rooster, Hen and Chicken with Spiderwort"
+      },
+      "file": "categories/ukiyoe/img/548633aa8268.webp",
+      "thumb": "categories/ukiyoe/thumb/548633aa8268.webp",
+      "w": 2048,
+      "h": 1590,
+      "avgColor": "#a69b7f",
+      "creator": "Katsushika Hokusai",
+      "year": 1842,
+      "deathYear": 1849,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/54305",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/54305"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.278,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-111654",
+      "title": {
+        "en": "South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji"
+      },
+      "file": "categories/ukiyoe/img/032b14c037b0.webp",
+      "thumb": "categories/ukiyoe/thumb/032b14c037b0.webp",
+      "w": 2048,
+      "h": 1403,
+      "avgColor": "#959391",
+      "creator": "Katsushika Hokusai",
+      "year": 1835,
+      "deathYear": 1849,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1930.189",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/111654"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.576,
+      "difficulty": 2,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-118800",
+      "title": {
+        "en": "Rain Below the Mountain (from the series Thirty-six Views of Mt. Fuji)"
+      },
+      "file": "categories/ukiyoe/img/05d4d7da6fb6.webp",
+      "thumb": "categories/ukiyoe/thumb/05d4d7da6fb6.webp",
+      "w": 2048,
+      "h": 1382,
+      "avgColor": "#766c63",
+      "creator": "Katsushika Hokusai",
+      "year": 1834,
+      "deathYear": 1849,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1940.1002",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/118800"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.576,
+      "difficulty": 2,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-111656",
+      "title": {
+        "en": "Poem by Kakinomoto no Hitomaro, from One Hundred Poems by One Hundred Poets Explained by a"
+      },
+      "file": "categories/ukiyoe/img/64c91fd78daf.webp",
+      "thumb": "categories/ukiyoe/thumb/64c91fd78daf.webp",
+      "w": 2048,
+      "h": 1405,
+      "avgColor": "#858679",
+      "creator": "Katsushika Hokusai",
+      "year": 1836,
+      "deathYear": 1849,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1930.190",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/111656"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.215,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-56906",
+      "title": {
+        "en": "Station Thirty-Eight: Fujikawa, Scene at the Border, from the Fifty-Three Stations of the "
+      },
+      "file": "categories/ukiyoe/img/4cc8cdaa2783.webp",
+      "thumb": "categories/ukiyoe/thumb/4cc8cdaa2783.webp",
+      "w": 2048,
+      "h": 1370,
+      "avgColor": "#b5a792",
+      "creator": "Utagawa Hiroshige",
+      "year": 1834,
+      "deathYear": 1858,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/56906",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/56906"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.347,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-45294",
+      "title": {
+        "en": "Twilight Moon at Ryōgoku Bridge"
+      },
+      "file": "categories/ukiyoe/img/4cd32d3c33df.webp",
+      "thumb": "categories/ukiyoe/thumb/4cd32d3c33df.webp",
+      "w": 2048,
+      "h": 1312,
+      "avgColor": "#a9a192",
+      "creator": "Utagawa Hiroshige",
+      "year": 1858,
+      "deathYear": 1858,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45294",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45294"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.319,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-36937",
+      "title": {
+        "en": "A Snowy Evening at Kanbara Station"
+      },
+      "file": "categories/ukiyoe/img/773eb1a0d744.webp",
+      "thumb": "categories/ukiyoe/thumb/773eb1a0d744.webp",
+      "w": 2048,
+      "h": 1391,
+      "avgColor": "#bfad96",
+      "creator": "Utagawa Hiroshige",
+      "year": 1834,
+      "deathYear": 1858,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/36937",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/36937"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.493,
+      "difficulty": 2,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-152499",
+      "title": {
+        "en": "The Moon-Viewing Promontory, from One Hundred Views of Famous Places in Edo"
+      },
+      "file": "categories/ukiyoe/img/b5b34bfc8d51.webp",
+      "thumb": "categories/ukiyoe/thumb/b5b34bfc8d51.webp",
+      "w": 1396,
+      "h": 2048,
+      "avgColor": "#908b7a",
+      "creator": "Utagawa Hiroshige",
+      "year": 1857,
+      "deathYear": 1858,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1985.320",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/152499"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.479,
+      "difficulty": 2,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-103244",
+      "title": {
+        "en": "Sudden Shower over Shin-Ōhashi Bridge and Atake, from One Hundred Famous Views of Edo"
+      },
+      "file": "categories/ukiyoe/img/c18bf58de678.webp",
+      "thumb": "categories/ukiyoe/thumb/c18bf58de678.webp",
+      "w": 1376,
+      "h": 2048,
+      "avgColor": "#8f8b82",
+      "creator": "Utagawa Hiroshige",
+      "year": 1857,
+      "deathYear": 1858,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1921.318",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/103244"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.604,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-120225",
+      "title": {
+        "en": "Fireworks at Ryōgoku, from the series One Hundred Views of Famous Places in Edo"
+      },
+      "file": "categories/ukiyoe/img/e9d8db9ee372.webp",
+      "thumb": "categories/ukiyoe/thumb/e9d8db9ee372.webp",
+      "w": 1352,
+      "h": 2048,
+      "avgColor": "#465152",
+      "creator": "Utagawa Hiroshige",
+      "year": 1858,
+      "deathYear": 1858,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1940.986",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/120225"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.701,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "smk-KKS17533",
+      "title": {
+        "en": "Horikiri irishave. Nr. 65 (Horikiri no hanashōbu)"
+      },
+      "file": "categories/ukiyoe/img/f86260b842ee.webp",
+      "thumb": "categories/ukiyoe/thumb/f86260b842ee.webp",
+      "w": 1420,
+      "h": 2048,
+      "avgColor": "#808e88",
+      "creator": "Utagawa Hiroshige I",
+      "year": 1857,
+      "deathYear": 1858,
+      "source": "smk",
+      "sourceUrl": "https://open.smk.dk/artwork/image/KKS17533",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "public_domain": true,
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "api": "https://api.smk.dk/api/v1/art/?object_number=KKS17533"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.514,
+      "difficulty": 2,
+      "maxPieces": 1000
+    }
+  ]
+}

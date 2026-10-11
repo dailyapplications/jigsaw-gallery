@@ -1,0 +1,516 @@
+{
+  "id": "space",
+  "title": {
+    "en": "Space",
+    "es": "Espacio",
+    "pt-BR": "Espaço",
+    "fr": "Espace",
+    "de": "Weltraum",
+    "it": "Spazio",
+    "ru": "Космос",
+    "tr": "Uzay",
+    "id": "Luar angkasa",
+    "ar": "الفضاء",
+    "ja": "宇宙",
+    "ko": "우주",
+    "hi": "अंतरिक्ष"
+  },
+  "puzzles": [
+    {
+      "id": "nasa-GSFC_20171208_Archive_e001518",
+      "title": {
+        "en": "Horsehead Nebula"
+      },
+      "file": "categories/space/img/65c8050bfb03.webp",
+      "thumb": "categories/space/thumb/65c8050bfb03.webp",
+      "w": 1960,
+      "h": 2048,
+      "avgColor": "#453d3f",
+      "difficulty": 2,
+      "lookAlike": 0.458,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001518",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e001518"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e001955",
+      "title": {
+        "en": "Hubble reveals heart of Lagoon Nebula"
+      },
+      "file": "categories/space/img/b4de3e05fe4b.webp",
+      "thumb": "categories/space/thumb/b4de3e05fe4b.webp",
+      "w": 2048,
+      "h": 1047,
+      "avgColor": "#a08959",
+      "difficulty": 1,
+      "lookAlike": 0.097,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001955",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e001955"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e000017",
+      "title": {
+        "en": "Hubble’s Hunting Dog Galaxy"
+      },
+      "file": "categories/space/img/3f808d2a417c.webp",
+      "thumb": "categories/space/thumb/3f808d2a417c.webp",
+      "w": 2048,
+      "h": 1811,
+      "avgColor": "#393133",
+      "difficulty": 3,
+      "lookAlike": 0.729,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000017",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e000017"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e000710",
+      "title": {
+        "en": "Lonely Galaxy Lost in Space"
+      },
+      "file": "categories/space/img/2b79ee2cf51b.webp",
+      "thumb": "categories/space/thumb/2b79ee2cf51b.webp",
+      "w": 2048,
+      "h": 1713,
+      "avgColor": "#3a3536",
+      "difficulty": 3,
+      "lookAlike": 0.667,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000710",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e000710"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o",
+      "title": {
+        "en": "Hubble Captures Vivid Auroras in Jupiter’s Atmosphere"
+      },
+      "file": "categories/space/img/3340678bc8df.webp",
+      "thumb": "categories/space/thumb/3340678bc8df.webp",
+      "w": 2048,
+      "h": 2041,
+      "avgColor": "#514c44",
+      "difficulty": 2,
+      "lookAlike": 0.451,
+      "creator": "NASA/GSFC",
+      "year": 2016,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e000034",
+      "title": {
+        "en": "Hubble’s Spirograph"
+      },
+      "file": "categories/space/img/b9430e2f8296.webp",
+      "thumb": "categories/space/thumb/b9430e2f8296.webp",
+      "w": 2048,
+      "h": 1950,
+      "avgColor": "#412a2c",
+      "difficulty": 2,
+      "lookAlike": 0.576,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000034",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e000034"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-hubble-catches-stellar-exodus-in-action_17644845341_o",
+      "title": {
+        "en": "Hubble Catches Stellar Exodus in Action"
+      },
+      "file": "categories/space/img/30b06ca59101.webp",
+      "thumb": "categories/space/thumb/30b06ca59101.webp",
+      "w": 1792,
+      "h": 1754,
+      "avgColor": "#58585a",
+      "difficulty": 3,
+      "lookAlike": 0.688,
+      "creator": "NASA/GSFC",
+      "year": 2015,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/hubble-catches-stellar-exodus-in-action_17644845341_o",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/hubble-catches-stellar-exodus-in-action_17644845341_o"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-S39-23-020",
+      "title": {
+        "en": "Aurora Australis, Sinuous Loop"
+      },
+      "file": "categories/space/img/a6c6a904d2fc.webp",
+      "thumb": "categories/space/thumb/a6c6a904d2fc.webp",
+      "w": 2048,
+      "h": 1344,
+      "avgColor": "#3c4b3c",
+      "difficulty": 2,
+      "lookAlike": 0.458,
+      "creator": "NASA/JSC",
+      "year": 1991,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/S39-23-020",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "JSC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/S39-23-020"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-sl4-143-4707",
+      "title": {
+        "en": "View of Skylab space station cluster in Earth orbit from CSM"
+      },
+      "file": "categories/space/img/f3d4933c1ffb.webp",
+      "thumb": "categories/space/thumb/f3d4933c1ffb.webp",
+      "w": 2048,
+      "h": 2024,
+      "avgColor": "#768e9b",
+      "difficulty": 2,
+      "lookAlike": 0.451,
+      "creator": "NASA/JSC",
+      "year": 1974,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/sl4-143-4707",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "JSC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/sl4-143-4707"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "maxPieces": 1000
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e001465",
+      "title": {
+        "en": "Planetary Nebula"
+      },
+      "file": "categories/space/img/3fd135b2e3e0.webp",
+      "thumb": "categories/space/thumb/3fd135b2e3e0.webp",
+      "w": 1215,
+      "h": 1241,
+      "avgColor": "#292214",
+      "difficulty": 3,
+      "lookAlike": 0.653,
+      "maxPieces": 500,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001465",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e001465"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "nasa-hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula_20283986193_o",
+      "title": {
+        "en": "The Twin Jet Nebula"
+      },
+      "file": "categories/space/img/535c44fc96ae.webp",
+      "thumb": "categories/space/thumb/535c44fc96ae.webp",
+      "w": 1280,
+      "h": 1070,
+      "avgColor": "#222524",
+      "difficulty": 3,
+      "lookAlike": 0.674,
+      "maxPieces": 500,
+      "creator": "NASA/GSFC",
+      "year": 2015,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula_20283986193_o",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula_20283986193_o"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e001464",
+      "title": {
+        "en": "Hubble reveals the Ring Nebula’s true shape"
+      },
+      "file": "categories/space/img/a29bd7f14dd9.webp",
+      "thumb": "categories/space/thumb/a29bd7f14dd9.webp",
+      "w": 1280,
+      "h": 1231,
+      "avgColor": "#1e1110",
+      "difficulty": 3,
+      "lookAlike": 0.896,
+      "maxPieces": 500,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001464",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e001464"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e000699",
+      "title": {
+        "en": "Hubble View of a Nitrogen-Rich Nebula"
+      },
+      "file": "categories/space/img/89c31d665b69.webp",
+      "thumb": "categories/space/thumb/89c31d665b69.webp",
+      "w": 1280,
+      "h": 1323,
+      "avgColor": "#4e5860",
+      "difficulty": 2,
+      "lookAlike": 0.424,
+      "maxPieces": 500,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000699",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e000699"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e000022",
+      "title": {
+        "en": "Hubble’s Hidden Galaxy"
+      },
+      "file": "categories/space/img/aeb95841a6ad.webp",
+      "thumb": "categories/space/thumb/aeb95841a6ad.webp",
+      "w": 1280,
+      "h": 1295,
+      "avgColor": "#362c2c",
+      "difficulty": 3,
+      "lookAlike": 0.625,
+      "maxPieces": 500,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000022",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e000022"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "nasa-GSFC_20171208_Archive_e001743",
+      "title": {
+        "en": "Hubble Images Searchlight Beams from a Preplanetary Nebula"
+      },
+      "file": "categories/space/img/a6df04b5dc71.webp",
+      "thumb": "categories/space/thumb/a6df04b5dc71.webp",
+      "w": 1280,
+      "h": 1203,
+      "avgColor": "#525f64",
+      "difficulty": 1,
+      "lookAlike": 0.34,
+      "maxPieces": 500,
+      "creator": "NASA/GSFC",
+      "year": 2017,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001743",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/GSFC_20171208_Archive_e001743"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "nasa-bedin1",
+      "title": {
+        "en": "Hubble Accidentally Discovers a New Galaxy in Cosmic Neighborhoo"
+      },
+      "file": "categories/space/img/a4a0163e98bd.webp",
+      "thumb": "categories/space/thumb/a4a0163e98bd.webp",
+      "w": 1355,
+      "h": 1017,
+      "avgColor": "#3a3f3f",
+      "difficulty": 2,
+      "lookAlike": 0.576,
+      "maxPieces": 500,
+      "creator": "NASA/GSFC",
+      "year": 2019,
+      "deathYear": null,
+      "source": "nasa",
+      "sourceUrl": "https://images.nasa.gov/details/bedin1",
+      "license": "NASA",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "proof": {
+        "center": "GSFC",
+        "no_secondary_creator": true,
+        "api": "https://images-api.nasa.gov/asset/bedin1"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    }
+  ]
+}

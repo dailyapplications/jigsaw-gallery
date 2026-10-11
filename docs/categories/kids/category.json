@@ -1,0 +1,440 @@
+{
+  "id": "kids",
+  "title": {
+    "en": "Cartoon fun",
+    "es": "Dibujos divertidos",
+    "pt-BR": "Desenhos divertidos",
+    "fr": "Dessins amusants",
+    "de": "Lustige Cartoons",
+    "it": "Cartoni divertenti",
+    "ru": "Весёлые мультяшки",
+    "tr": "Eğlenceli çizgiler",
+    "id": "Kartun seru",
+    "ar": "رسوم مرحة",
+    "ja": "たのしいイラスト",
+    "ko": "신나는 만화",
+    "hi": "मज़ेदार कार्टून"
+  },
+  "puzzles": [
+    {
+      "id": "original-happy-farm",
+      "title": {
+        "en": "Happy farm"
+      },
+      "file": "categories/kids/img/143459c3e679.webp",
+      "thumb": "categories/kids/thumb/143459c3e679.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#a4ceba",
+      "difficulty": 1,
+      "lookAlike": 0.375,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-under-the-sea",
+      "title": {
+        "en": "Under the sea"
+      },
+      "file": "categories/kids/img/b7641a664261.webp",
+      "thumb": "categories/kids/thumb/b7641a664261.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#5097cd",
+      "difficulty": 2,
+      "lookAlike": 0.521,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-space-adventure",
+      "title": {
+        "en": "Space adventure"
+      },
+      "file": "categories/kids/img/a8a4397177a3.webp",
+      "thumb": "categories/kids/thumb/a8a4397177a3.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#463366",
+      "difficulty": 2,
+      "lookAlike": 0.486,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-jungle-friends",
+      "title": {
+        "en": "Jungle friends"
+      },
+      "file": "categories/kids/img/5ce6318a9626.webp",
+      "thumb": "categories/kids/thumb/5ce6318a9626.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#97c87c",
+      "difficulty": 1,
+      "lookAlike": 0.451,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-candy-land",
+      "title": {
+        "en": "Candy land"
+      },
+      "file": "categories/kids/img/a42d464780e1.webp",
+      "thumb": "categories/kids/thumb/a42d464780e1.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#e2cad0",
+      "difficulty": 1,
+      "lookAlike": 0.653,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-rainbow-sky",
+      "title": {
+        "en": "Rainbow sky"
+      },
+      "file": "categories/kids/img/d77347c99562.webp",
+      "thumb": "categories/kids/thumb/d77347c99562.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#a6c9c8",
+      "difficulty": 1,
+      "lookAlike": 0.382,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-dino-valley",
+      "title": {
+        "en": "Dino valley"
+      },
+      "file": "categories/kids/img/96c5a47d5be7.webp",
+      "thumb": "categories/kids/thumb/96c5a47d5be7.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#c4cb8a",
+      "difficulty": 2,
+      "lookAlike": 0.458,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-little-town",
+      "title": {
+        "en": "Little town"
+      },
+      "file": "categories/kids/img/dd40a98b5f42.webp",
+      "thumb": "categories/kids/thumb/dd40a98b5f42.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#a5bac7",
+      "difficulty": 1,
+      "lookAlike": 0.465,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-pirate-bay",
+      "title": {
+        "en": "Pirate bay"
+      },
+      "file": "categories/kids/img/71ac40a593b0.webp",
+      "thumb": "categories/kids/thumb/71ac40a593b0.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#a7bdb9",
+      "difficulty": 2,
+      "lookAlike": 0.556,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-forest-friends",
+      "title": {
+        "en": "Forest friends"
+      },
+      "file": "categories/kids/img/35cf0f443c19.webp",
+      "thumb": "categories/kids/thumb/35cf0f443c19.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#bfcd91",
+      "difficulty": 1,
+      "lookAlike": 0.514,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-winter-fun",
+      "title": {
+        "en": "Winter fun"
+      },
+      "file": "categories/kids/img/ebde1519f579.webp",
+      "thumb": "categories/kids/thumb/ebde1519f579.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#bfdeea",
+      "difficulty": 2,
+      "lookAlike": 0.688,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-insect-garden",
+      "title": {
+        "en": "Insect garden"
+      },
+      "file": "categories/kids/img/249c74ff268a.webp",
+      "thumb": "categories/kids/thumb/249c74ff268a.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#b9d7bd",
+      "difficulty": 2,
+      "lookAlike": 0.583,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-pets-party",
+      "title": {
+        "en": "Pets party"
+      },
+      "file": "categories/kids/img/b43fbea853d2.webp",
+      "thumb": "categories/kids/thumb/b43fbea853d2.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#f2d0bc",
+      "difficulty": 1,
+      "lookAlike": 0.542,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-cozy-pets",
+      "title": {
+        "en": "Cozy pets"
+      },
+      "file": "categories/kids/img/57707ea47b6b.webp",
+      "thumb": "categories/kids/thumb/57707ea47b6b.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#d2c6bd",
+      "difficulty": 1,
+      "lookAlike": 0.569,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    }
+  ]
+}

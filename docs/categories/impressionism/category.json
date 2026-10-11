@@ -1,0 +1,350 @@
+{
+  "id": "impressionism",
+  "title": {
+    "en": "Impressionism",
+    "es": "Impresionismo",
+    "pt-BR": "Impressionismo",
+    "fr": "Impressionnisme",
+    "de": "Impressionismus",
+    "it": "Impressionismo",
+    "ru": "Импрессионизм",
+    "tr": "Empresyonizm",
+    "id": "Impresionisme",
+    "ar": "الانطباعية",
+    "ja": "印象派",
+    "ko": "인상주의",
+    "hi": "प्रभाववाद"
+  },
+  "puzzles": [
+    {
+      "id": "cleveland-95272",
+      "title": {
+        "en": "Gardener's House at Antibes"
+      },
+      "file": "categories/impressionism/img/25d48dce9a5b.webp",
+      "thumb": "categories/impressionism/thumb/25d48dce9a5b.webp",
+      "w": 2048,
+      "h": 1456,
+      "avgColor": "#939794",
+      "creator": "Claude Monet",
+      "year": 1888,
+      "deathYear": 1926,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1916.1044",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/95272"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.375,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-125234",
+      "title": {
+        "en": "Low Tide at Pourville, near Dieppe, 1882"
+      },
+      "file": "categories/impressionism/img/998f6fe7b19d.webp",
+      "thumb": "categories/impressionism/thumb/998f6fe7b19d.webp",
+      "w": 2048,
+      "h": 1511,
+      "avgColor": "#64828b",
+      "creator": "Claude Monet",
+      "year": 1882,
+      "deathYear": 1926,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1947.196",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/125234"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.743,
+      "difficulty": 3,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-130391",
+      "title": {
+        "en": "Spring Flowers"
+      },
+      "file": "categories/impressionism/img/386a22dc716e.webp",
+      "thumb": "categories/impressionism/thumb/386a22dc716e.webp",
+      "w": 1559,
+      "h": 2048,
+      "avgColor": "#3c3227",
+      "creator": "Claude Monet",
+      "year": 1864,
+      "deathYear": 1926,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1953.155",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/130391"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.431,
+      "difficulty": 2,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437428",
+      "title": {
+        "en": "Still Life with Peaches and Grapes"
+      },
+      "file": "categories/impressionism/img/5428df40519b.webp",
+      "thumb": "categories/impressionism/thumb/5428df40519b.webp",
+      "w": 2048,
+      "h": 1717,
+      "avgColor": "#7b8a85",
+      "creator": "Auguste Renoir",
+      "year": 1881,
+      "deathYear": 1919,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437428",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437428"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.375,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-459112",
+      "title": {
+        "en": "Two Young Girls at the Piano"
+      },
+      "file": "categories/impressionism/img/cee04bbfb283.webp",
+      "thumb": "categories/impressionism/thumb/cee04bbfb283.webp",
+      "w": 1601,
+      "h": 2048,
+      "avgColor": "#5e5243",
+      "creator": "Auguste Renoir",
+      "year": 1892,
+      "deathYear": 1919,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/459112",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/459112"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.243,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-120286",
+      "title": {
+        "en": "Roses in a Vase"
+      },
+      "file": "categories/impressionism/img/064e02f35a64.webp",
+      "thumb": "categories/impressionism/thumb/064e02f35a64.webp",
+      "w": 2048,
+      "h": 1487,
+      "avgColor": "#53452b",
+      "creator": "Pierre-Auguste Renoir",
+      "year": 1910,
+      "deathYear": 1919,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/1941.14",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/120286"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.396,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437307",
+      "title": {
+        "en": "Poplars, Eragny"
+      },
+      "file": "categories/impressionism/img/95273667027b.webp",
+      "thumb": "categories/impressionism/thumb/95273667027b.webp",
+      "w": 1461,
+      "h": 2048,
+      "avgColor": "#8c8c60",
+      "creator": "Camille Pissarro",
+      "year": 1895,
+      "deathYear": 1903,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437307",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437307"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.153,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-897321",
+      "title": {
+        "en": "Seated Peasant Woman with Goats"
+      },
+      "file": "categories/impressionism/img/0dee4d11e8c2.webp",
+      "thumb": "categories/impressionism/thumb/0dee4d11e8c2.webp",
+      "w": 2048,
+      "h": 2039,
+      "avgColor": "#73886d",
+      "creator": "Camille Pissarro",
+      "year": 1885,
+      "deathYear": 1903,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/897321",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/897321"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.174,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437308",
+      "title": {
+        "en": "Morning, An Overcast Day, Rouen"
+      },
+      "file": "categories/impressionism/img/0fdf794ba12a.webp",
+      "thumb": "categories/impressionism/thumb/0fdf794ba12a.webp",
+      "w": 2048,
+      "h": 1716,
+      "avgColor": "#a7a29b",
+      "creator": "Camille Pissarro",
+      "year": 1896,
+      "deathYear": 1903,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437308",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437308"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.458,
+      "difficulty": 2,
+      "maxPieces": 1000
+    },
+    {
+      "id": "met-437313",
+      "title": {
+        "en": "The Garden of the Tuileries on a Spring Morning"
+      },
+      "file": "categories/impressionism/img/20504302a3eb.webp",
+      "thumb": "categories/impressionism/thumb/20504302a3eb.webp",
+      "w": 2048,
+      "h": 1639,
+      "avgColor": "#b0a690",
+      "creator": "Camille Pissarro",
+      "year": 1899,
+      "deathYear": 1903,
+      "source": "met",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437313",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "isPublicDomain": true,
+        "api": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437313"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.319,
+      "difficulty": 1,
+      "maxPieces": 1000
+    },
+    {
+      "id": "cleveland-74228",
+      "title": {
+        "en": "Fishmarket"
+      },
+      "file": "categories/impressionism/img/d707e7be4195.webp",
+      "thumb": "categories/impressionism/thumb/d707e7be4195.webp",
+      "w": 2048,
+      "h": 1641,
+      "avgColor": "#9d9389",
+      "creator": "Camille Pissarro",
+      "year": 1902,
+      "deathYear": 1903,
+      "source": "cleveland",
+      "sourceUrl": "https://clevelandart.org/art/2020.113",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "share_license_status": "CC0",
+        "api": "https://openaccess-api.clevelandart.org/api/artworks/74228"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": [],
+      "lookAlike": 0.465,
+      "difficulty": 2,
+      "maxPieces": 1000
+    }
+  ]
+}

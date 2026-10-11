@@ -1,0 +1,3 @@
+# Remote tuning for the jigsaw app (fetched at most once a day; invalid values are ignored)
+a=2500
+b=4000
