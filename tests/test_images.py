@@ -82,10 +82,10 @@ def test_landscape_categories_are_never_easy_but_close_ups_can_be():
 def test_black_scan_border_is_trimmed_and_content_kept():
     from PIL import Image
     img = Image.new("RGB", (400, 300), (10, 10, 10))
-    img.paste(Image.new("RGB", (340, 250), (200, 120, 60)), (30, 25))
-    assert images.dark_border(img) == (30, 25, 30, 25)
+    img.paste(Image.new("RGB", (360, 270), (200, 120, 60)), (20, 15))
+    assert images.dark_border(img) == (20, 15, 20, 15)
     cut = images.trim_dark_border(img)
-    assert cut.size == (340 - 6, 250 - 6) and cut.getpixel((5, 5)) == (200, 120, 60)
+    assert cut.size == (360 - 6, 270 - 6) and cut.getpixel((5, 5)) == (200, 120, 60)
 
 
 def test_pictures_without_a_black_border_or_with_a_dark_foreground_are_left_alone():
