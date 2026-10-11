@@ -19,7 +19,19 @@
     {
       "id": "original-happy-farm",
       "title": {
-        "en": "Happy farm"
+        "en": "Happy farm",
+        "es": "Granja feliz",
+        "pt-BR": "Fazenda feliz",
+        "fr": "Ferme joyeuse",
+        "de": "Fröhlicher Bauernhof",
+        "it": "Fattoria felice",
+        "ru": "Весёлая ферма",
+        "tr": "Mutlu çiftlik",
+        "id": "Peternakan ceria",
+        "ar": "مزرعة سعيدة",
+        "ja": "たのしい牧場",
+        "ko": "즐거운 농장",
+        "hi": "खुशहाल खेत"
       },
       "file": "categories/kids/img/143459c3e679.webp",
       "thumb": "categories/kids/thumb/143459c3e679.webp",
@@ -49,7 +61,19 @@
     {
       "id": "original-under-the-sea",
       "title": {
-        "en": "Under the sea"
+        "en": "Under the sea",
+        "es": "Bajo el mar",
+        "pt-BR": "Debaixo do mar",
+        "fr": "Sous la mer",
+        "de": "Unter dem Meer",
+        "it": "Sotto il mare",
+        "ru": "Под водой",
+        "tr": "Deniz altında",
+        "id": "Di bawah laut",
+        "ar": "تحت البحر",
+        "ja": "海のなか",
+        "ko": "바닷속",
+        "hi": "समुद्र के नीचे"
       },
       "file": "categories/kids/img/b7641a664261.webp",
       "thumb": "categories/kids/thumb/b7641a664261.webp",
@@ -79,7 +103,19 @@
     {
       "id": "original-space-adventure",
       "title": {
-        "en": "Space adventure"
+        "en": "Space adventure",
+        "es": "Aventura espacial",
+        "pt-BR": "Aventura espacial",
+        "fr": "Aventure spatiale",
+        "de": "Weltraumabenteuer",
+        "it": "Avventura spaziale",
+        "ru": "Космическое приключение",
+        "tr": "Uzay macerası",
+        "id": "Petualangan luar angkasa",
+        "ar": "مغامرة فضائية",
+        "ja": "宇宙ぼうけん",
+        "ko": "우주 모험",
+        "hi": "अंतरिक्ष की सैर"
       },
       "file": "categories/kids/img/a8a4397177a3.webp",
       "thumb": "categories/kids/thumb/a8a4397177a3.webp",
@@ -109,7 +145,19 @@
     {
       "id": "original-jungle-friends",
       "title": {
-        "en": "Jungle friends"
+        "en": "Jungle friends",
+        "es": "Amigos de la selva",
+        "pt-BR": "Amigos da selva",
+        "fr": "Amis de la jungle",
+        "de": "Dschungelfreunde",
+        "it": "Amici della giungla",
+        "ru": "Друзья из джунглей",
+        "tr": "Orman dostları",
+        "id": "Teman rimba",
+        "ar": "أصدقاء الغابة",
+        "ja": "ジャングルのなかま",
+        "ko": "정글 친구들",
+        "hi": "जंगल के दोस्त"
       },
       "file": "categories/kids/img/5ce6318a9626.webp",
       "thumb": "categories/kids/thumb/5ce6318a9626.webp",
@@ -139,7 +187,19 @@
     {
       "id": "original-candy-land",
       "title": {
-        "en": "Candy land"
+        "en": "Candy land",
+        "es": "Tierra de golosinas",
+        "pt-BR": "Terra dos doces",
+        "fr": "Pays des bonbons",
+        "de": "Süßigkeitenland",
+        "it": "Paese delle caramelle",
+        "ru": "Страна сладостей",
+        "tr": "Şeker diyarı",
+        "id": "Negeri permen",
+        "ar": "أرض الحلوى",
+        "ja": "おかしの国",
+        "ko": "사탕 나라",
+        "hi": "मिठाइयों की दुनिया"
       },
       "file": "categories/kids/img/a42d464780e1.webp",
       "thumb": "categories/kids/thumb/a42d464780e1.webp",
@@ -169,7 +229,19 @@
     {
       "id": "original-rainbow-sky",
       "title": {
-        "en": "Rainbow sky"
+        "en": "Rainbow sky",
+        "es": "Cielo arcoíris",
+        "pt-BR": "Céu arco-íris",
+        "fr": "Ciel arc-en-ciel",
+        "de": "Regenbogenhimmel",
+        "it": "Cielo arcobaleno",
+        "ru": "Радужное небо",
+        "tr": "Gökkuşağı gökyüzü",
+        "id": "Langit pelangi",
+        "ar": "سماء قوس قزح",
+        "ja": "にじ色の空",
+        "ko": "무지개 하늘",
+        "hi": "इंद्रधनुषी आसमान"
       },
       "file": "categories/kids/img/d77347c99562.webp",
       "thumb": "categories/kids/thumb/d77347c99562.webp",
@@ -199,7 +271,19 @@
     {
       "id": "original-dino-valley",
       "title": {
-        "en": "Dino valley"
+        "en": "Dino valley",
+        "es": "Valle de dinosaurios",
+        "pt-BR": "Vale dos dinossauros",
+        "fr": "Vallée des dinosaures",
+        "de": "Dinotal",
+        "it": "Valle dei dinosauri",
+        "ru": "Долина динозавров",
+        "tr": "Dinozor vadisi",
+        "id": "Lembah dinosaurus",
+        "ar": "وادي الديناصورات",
+        "ja": "きょうりゅうの谷",
+        "ko": "공룡 골짜기",
+        "hi": "डायनासोर घाटी"
       },
       "file": "categories/kids/img/96c5a47d5be7.webp",
       "thumb": "categories/kids/thumb/96c5a47d5be7.webp",
@@ -229,7 +313,19 @@
     {
       "id": "original-little-town",
       "title": {
-        "en": "Little town"
+        "en": "Little town",
+        "es": "Pueblito",
+        "pt-BR": "Cidadezinha",
+        "fr": "Petite ville",
+        "de": "Kleine Stadt",
+        "it": "Cittadina",
+        "ru": "Городок",
+        "tr": "Küçük kasaba",
+        "id": "Kota kecil",
+        "ar": "بلدة صغيرة",
+        "ja": "小さな町",
+        "ko": "작은 마을",
+        "hi": "छोटा शहर"
       },
       "file": "categories/kids/img/dd40a98b5f42.webp",
       "thumb": "categories/kids/thumb/dd40a98b5f42.webp",
@@ -259,7 +355,19 @@
     {
       "id": "original-pirate-bay",
       "title": {
-        "en": "Pirate bay"
+        "en": "Pirate bay",
+        "es": "Bahía pirata",
+        "pt-BR": "Baía dos piratas",
+        "fr": "Baie des pirates",
+        "de": "Piratenbucht",
+        "it": "Baia dei pirati",
+        "ru": "Бухта пиратов",
+        "tr": "Korsan koyu",
+        "id": "Teluk bajak laut",
+        "ar": "خليج القراصنة",
+        "ja": "かいぞくの入り江",
+        "ko": "해적 만",
+        "hi": "समुद्री डाकुओं की खाड़ी"
       },
       "file": "categories/kids/img/71ac40a593b0.webp",
       "thumb": "categories/kids/thumb/71ac40a593b0.webp",
@@ -289,7 +397,19 @@
     {
       "id": "original-forest-friends",
       "title": {
-        "en": "Forest friends"
+        "en": "Forest friends",
+        "es": "Amigos del bosque",
+        "pt-BR": "Amigos da floresta",
+        "fr": "Amis de la forêt",
+        "de": "Waldfreunde",
+        "it": "Amici del bosco",
+        "ru": "Лесные друзья",
+        "tr": "Orman arkadaşları",
+        "id": "Teman hutan",
+        "ar": "أصدقاء الغابة",
+        "ja": "もりのなかま",
+        "ko": "숲속 친구들",
+        "hi": "जंगल के साथी"
       },
       "file": "categories/kids/img/35cf0f443c19.webp",
       "thumb": "categories/kids/thumb/35cf0f443c19.webp",
@@ -319,7 +439,19 @@
     {
       "id": "original-winter-fun",
       "title": {
-        "en": "Winter fun"
+        "en": "Winter fun",
+        "es": "Diversión invernal",
+        "pt-BR": "Diversão de inverno",
+        "fr": "Jeux d'hiver",
+        "de": "Winterspaß",
+        "it": "Divertimento invernale",
+        "ru": "Зимние забавы",
+        "tr": "Kış eğlencesi",
+        "id": "Serunya musim dingin",
+        "ar": "مرح الشتاء",
+        "ja": "ふゆのたのしみ",
+        "ko": "겨울 놀이",
+        "hi": "सर्दियों की मस्ती"
       },
       "file": "categories/kids/img/ebde1519f579.webp",
       "thumb": "categories/kids/thumb/ebde1519f579.webp",
@@ -349,7 +481,19 @@
     {
       "id": "original-insect-garden",
       "title": {
-        "en": "Insect garden"
+        "en": "Insect garden",
+        "es": "Jardín de insectos",
+        "pt-BR": "Jardim dos insetos",
+        "fr": "Jardin des insectes",
+        "de": "Insektengarten",
+        "it": "Giardino degli insetti",
+        "ru": "Сад насекомых",
+        "tr": "Böcek bahçesi",
+        "id": "Taman serangga",
+        "ar": "حديقة الحشرات",
+        "ja": "むしの庭",
+        "ko": "곤충 정원",
+        "hi": "कीड़ों का बगीचा"
       },
       "file": "categories/kids/img/249c74ff268a.webp",
       "thumb": "categories/kids/thumb/249c74ff268a.webp",
@@ -379,7 +523,19 @@
     {
       "id": "original-pets-party",
       "title": {
-        "en": "Pets party"
+        "en": "Pets party",
+        "es": "Fiesta de mascotas",
+        "pt-BR": "Festa dos bichinhos",
+        "fr": "Fête des animaux",
+        "de": "Haustierparty",
+        "it": "Festa degli animali",
+        "ru": "Праздник питомцев",
+        "tr": "Evcil hayvan partisi",
+        "id": "Pesta hewan peliharaan",
+        "ar": "حفلة الحيوانات الأليفة",
+        "ja": "ペットのパーティー",
+        "ko": "반려동물 파티",
+        "hi": "पालतू जानवरों की पार्टी"
       },
       "file": "categories/kids/img/b43fbea853d2.webp",
       "thumb": "categories/kids/thumb/b43fbea853d2.webp",
@@ -409,7 +565,19 @@
     {
       "id": "original-cozy-pets",
       "title": {
-        "en": "Cozy pets"
+        "en": "Cozy pets",
+        "es": "Mascotas acogedoras",
+        "pt-BR": "Bichinhos aconchegantes",
+        "fr": "Animaux câlins",
+        "de": "Gemütliche Haustiere",
+        "it": "Animali al calduccio",
+        "ru": "Уютные питомцы",
+        "tr": "Sevimli dostlar",
+        "id": "Hewan peliharaan hangat",
+        "ar": "حيوانات أليفة دافئة",
+        "ja": "ぬくぬくペット",
+        "ko": "포근한 반려동물",
+        "hi": "आरामदायक पालतू"
       },
       "file": "categories/kids/img/57707ea47b6b.webp",
       "thumb": "categories/kids/thumb/57707ea47b6b.webp",
@@ -439,7 +607,19 @@
     {
       "id": "original-balloon-festival",
       "title": {
-        "en": "Balloon festival"
+        "en": "Balloon festival",
+        "es": "Festival de globos",
+        "pt-BR": "Festival de balões",
+        "fr": "Fête des montgolfières",
+        "de": "Ballonfest",
+        "it": "Festa delle mongolfiere",
+        "ru": "Праздник воздушных шаров",
+        "tr": "Balon festivali",
+        "id": "Festival balon",
+        "ar": "مهرجان المناطيد",
+        "ja": "気球まつり",
+        "ko": "열기구 축제",
+        "hi": "गुब्बारा उत्सव"
       },
       "file": "categories/kids/img/d301d42a1070.webp",
       "thumb": "categories/kids/thumb/d301d42a1070.webp",
@@ -469,7 +649,19 @@
     {
       "id": "original-birthday-party",
       "title": {
-        "en": "Birthday party"
+        "en": "Birthday party",
+        "es": "Fiesta de cumpleaños",
+        "pt-BR": "Festa de aniversário",
+        "fr": "Fête d'anniversaire",
+        "de": "Geburtstagsparty",
+        "it": "Festa di compleanno",
+        "ru": "День рождения",
+        "tr": "Doğum günü partisi",
+        "id": "Pesta ulang tahun",
+        "ar": "حفلة عيد ميلاد",
+        "ja": "お誕生日会",
+        "ko": "생일 파티",
+        "hi": "जन्मदिन की पार्टी"
       },
       "file": "categories/kids/img/9a197e0306ec.webp",
       "thumb": "categories/kids/thumb/9a197e0306ec.webp",
@@ -499,7 +691,19 @@
     {
       "id": "original-parrot-paradise",
       "title": {
-        "en": "Parrot paradise"
+        "en": "Parrot paradise",
+        "es": "Paraíso de loros",
+        "pt-BR": "Paraíso dos papagaios",
+        "fr": "Paradis des perroquets",
+        "de": "Papageienparadies",
+        "it": "Paradiso dei pappagalli",
+        "ru": "Рай попугаев",
+        "tr": "Papağan cenneti",
+        "id": "Surga burung beo",
+        "ar": "جنة الببغاوات",
+        "ja": "オウムの楽園",
+        "ko": "앵무새 천국",
+        "hi": "तोतों का स्वर्ग"
       },
       "file": "categories/kids/img/94ea3e72038b.webp",
       "thumb": "categories/kids/thumb/94ea3e72038b.webp",
@@ -529,7 +733,19 @@
     {
       "id": "original-magic-garden",
       "title": {
-        "en": "Magic garden"
+        "en": "Magic garden",
+        "es": "Jardín mágico",
+        "pt-BR": "Jardim mágico",
+        "fr": "Jardin magique",
+        "de": "Zaubergarten",
+        "it": "Giardino magico",
+        "ru": "Волшебный сад",
+        "tr": "Sihirli bahçe",
+        "id": "Taman ajaib",
+        "ar": "الحديقة السحرية",
+        "ja": "まほうの庭",
+        "ko": "마법의 정원",
+        "hi": "जादुई बगीचा"
       },
       "file": "categories/kids/img/0ca00f5c29a9.webp",
       "thumb": "categories/kids/thumb/0ca00f5c29a9.webp",
@@ -559,7 +775,19 @@
     {
       "id": "original-reef-party",
       "title": {
-        "en": "Reef party"
+        "en": "Reef party",
+        "es": "Fiesta del arrecife",
+        "pt-BR": "Festa no recife",
+        "fr": "Fête du récif",
+        "de": "Riffparty",
+        "it": "Festa della barriera",
+        "ru": "Праздник на рифе",
+        "tr": "Resif partisi",
+        "id": "Pesta terumbu karang",
+        "ar": "حفلة الشعاب المرجانية",
+        "ja": "サンゴ礁のパーティー",
+        "ko": "산호초 파티",
+        "hi": "चट्टान की पार्टी"
       },
       "file": "categories/kids/img/e13275330cd7.webp",
       "thumb": "categories/kids/thumb/e13275330cd7.webp",
@@ -589,7 +817,19 @@
     {
       "id": "original-busy-road",
       "title": {
-        "en": "Busy road"
+        "en": "Busy road",
+        "es": "Calle ajetreada",
+        "pt-BR": "Rua movimentada",
+        "fr": "Route animée",
+        "de": "Belebte Straße",
+        "it": "Strada trafficata",
+        "ru": "Оживлённая дорога",
+        "tr": "Işlek yol",
+        "id": "Jalan ramai",
+        "ar": "طريق مزدحم",
+        "ja": "にぎやかな道",
+        "ko": "붐비는 도로",
+        "hi": "व्यस्त सड़क"
       },
       "file": "categories/kids/img/ecbef7f74437.webp",
       "thumb": "categories/kids/thumb/ecbef7f74437.webp",
@@ -619,7 +859,19 @@
     {
       "id": "original-safari-rainbow",
       "title": {
-        "en": "Safari rainbow"
+        "en": "Safari rainbow",
+        "es": "Arcoíris del safari",
+        "pt-BR": "Arco-íris do safári",
+        "fr": "Arc-en-ciel du safari",
+        "de": "Safari-Regenbogen",
+        "it": "Arcobaleno del safari",
+        "ru": "Радуга над саванной",
+        "tr": "Safari gökkuşağı",
+        "id": "Pelangi safari",
+        "ar": "قوس قزح السفاري",
+        "ja": "サファリのにじ",
+        "ko": "사파리 무지개",
+        "hi": "सफारी इंद्रधनुष"
       },
       "file": "categories/kids/img/b9168cfdf5db.webp",
       "thumb": "categories/kids/thumb/b9168cfdf5db.webp",
@@ -649,7 +901,19 @@
     {
       "id": "original-fruit-orchard",
       "title": {
-        "en": "Fruit orchard"
+        "en": "Fruit orchard",
+        "es": "Huerto de frutas",
+        "pt-BR": "Pomar de frutas",
+        "fr": "Verger",
+        "de": "Obstgarten",
+        "it": "Frutteto",
+        "ru": "Фруктовый сад",
+        "tr": "Meyve bahçesi",
+        "id": "Kebun buah",
+        "ar": "بستان الفاكهة",
+        "ja": "くだもの畑",
+        "ko": "과수원",
+        "hi": "फलों का बाग"
       },
       "file": "categories/kids/img/5db0fd8f85b3.webp",
       "thumb": "categories/kids/thumb/5db0fd8f85b3.webp",

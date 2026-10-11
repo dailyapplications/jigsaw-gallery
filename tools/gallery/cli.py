@@ -180,6 +180,24 @@ def cmd_trim_borders(a) -> None:
         store.write_json(store.category_path(store.DOCS, cid), cat)
 
 
+TITLE_TRANSLATIONS = store.ROOT / "seed" / "title_translations.json"
+
+
+def cmd_apply_titles(a) -> None:
+    """Adds the translated picture titles from seed/title_translations.json (keyed by the English title) to every picture."""
+    table = json.loads(TITLE_TRANSLATIONS.read_text(encoding="utf-8"))
+    n = 0
+    for cid in store.category_ids(store.DOCS):
+        cat = store.load_category(store.DOCS, cid)
+        for x in cat["puzzles"]:
+            found = table.get(x["title"]["en"])
+            if found and {k: v for k, v in x["title"].items() if k != "en"} != found:
+                x["title"] = {"en": x["title"]["en"], **found}
+                n += 1
+        store.write_json(store.category_path(store.DOCS, cid), cat)
+    print(f"{n} pictures got translated titles")
+
+
 def cmd_retitle(a) -> None:
     """Re-applies the title cleanup to every picture (English title only; translations are kept)."""
     from .titles import clean_title
@@ -238,6 +256,7 @@ def main(argv=None) -> None:
     s = sub.add_parser("retire"); s.add_argument("category"); s.add_argument("puzzle_id"); s.set_defaults(f=cmd_retire)
     s = sub.add_parser("import-illustrations"); s.set_defaults(f=cmd_import_illustrations)
     s = sub.add_parser("retitle"); s.set_defaults(f=cmd_retitle)
+    s = sub.add_parser("apply-titles"); s.set_defaults(f=cmd_apply_titles)
     s = sub.add_parser("trim-borders"); s.set_defaults(f=cmd_trim_borders)
     s = sub.add_parser("rate"); s.add_argument("-v", "--verbose", action="store_true"); s.set_defaults(f=cmd_rate)
     s = sub.add_parser("build"); s.set_defaults(f=cmd_build)

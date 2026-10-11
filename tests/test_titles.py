@@ -28,3 +28,34 @@ def test_hand_written_overrides_win_and_empty_titles_fall_back():
 def test_normal_titles_are_left_alone():
     assert clean_title("Happy farm") == "Happy farm"
     assert clean_title("Allegory of the Catholic Faith") == "Allegory of the Catholic Faith"
+
+
+def test_apply_titles_adds_translations_only_to_matching_titles(docs, tmp_path, monkeypatch):
+    import json
+    from tests.conftest import add
+    from tools.gallery import cli, store
+    add(docs, "1", title="Happy farm")
+    add(docs, "2", title="Something else")
+    table = tmp_path / "t.json"
+    table.write_text(json.dumps({"Happy farm": {"de": "Fröhlicher Bauernhof", "fr": "Ferme joyeuse"}}), encoding="utf-8")
+    monkeypatch.setattr(cli, "TITLE_TRANSLATIONS", table)
+    monkeypatch.setattr(store, "DOCS", docs)
+    cli.cmd_apply_titles(None)
+    puzzles = {x["id"]: x["title"] for x in store.load_category(docs, "art")["puzzles"]}
+    assert puzzles["met-1"]["de"] == "Fröhlicher Bauernhof" and puzzles["met-1"]["en"] == "Happy farm"
+    assert puzzles["met-2"] == {"en": "Something else"}            # no entry in the table: untouched
+
+
+def test_apply_titles_is_repeatable_and_keeps_the_english_title(docs, tmp_path, monkeypatch):
+    import json
+    from tests.conftest import add
+    from tools.gallery import cli, store
+    add(docs, "1", title="Happy farm")
+    table = tmp_path / "t.json"
+    table.write_text(json.dumps({"Happy farm": {"de": "Bauernhof"}}), encoding="utf-8")
+    monkeypatch.setattr(cli, "TITLE_TRANSLATIONS", table)
+    monkeypatch.setattr(store, "DOCS", docs)
+    cli.cmd_apply_titles(None)
+    first = store.read_json(store.category_path(docs, "art"))
+    cli.cmd_apply_titles(None)
+    assert store.read_json(store.category_path(docs, "art")) == first
