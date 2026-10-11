@@ -49,6 +49,37 @@ def look_alike_share(img: Image.Image) -> float:
     return twins / len(feats)
 
 
+BORDER_MAX_SHARE = 0.08   # never trim more than this share of a side
+BORDER_DARK = 60          # a row or column whose brightest pixel is below this counts as scan border
+
+
+def dark_border(img: Image.Image) -> tuple[int, int, int, int]:
+    """Pixels of near-black scan border on the (left, top, right, bottom) sides, for photographed paintings with a black mat."""
+    rgb = img.convert("RGB")
+    w, h = rgb.size
+
+    def dark(box) -> bool:
+        return max(hi for _, hi in rgb.crop(box).getextrema()) < BORDER_DARK
+
+    def run(count, box_at) -> int:
+        n = 0
+        while n < int(count * BORDER_MAX_SHARE) and dark(box_at(n)):
+            n += 1
+        return n
+
+    return (run(w, lambda i: (i, 0, i + 1, h)), run(h, lambda i: (0, i, w, i + 1)),
+            run(w, lambda i: (w - 1 - i, 0, w - i, h)), run(h, lambda i: (0, h - 1 - i, w, h - i)))
+
+
+def trim_dark_border(img: Image.Image) -> Image.Image:
+    """The picture without its black scan border (plus 3 px of the blurred edge); unchanged when there is none."""
+    l, t, r, b = dark_border(img)
+    if max(l, t, r, b) < 3:
+        return img
+    pad = 3
+    return img.crop((l + pad if l else 0, t + pad if t else 0, img.width - (r + pad if r else 0), img.height - (b + pad if b else 0)))
+
+
 PIECE_PRESETS = (24, 40, 60, 100, 150, 300, 500, 1000)
 MIN_PIECE_PX = 45  # a piece smaller than this many pixels looks soft
 

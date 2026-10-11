@@ -6,3 +6,6 @@
 
 ## Difficulty floor for landscapes (2026-10-11)
 Owner feedback: realistic mountain/sea photos are not easy. The look-alike score alone rated them easy because every patch differs slightly. `images.CATEGORY_FLOOR` now makes mountains, seaside, forests, seasons, cities and architecture at least medium; close-up subjects (birds, flowers, food, wildlife) can stay easy. Applied on add (`store.puzzle_entry`) and by `rate`.
+
+## Photo audit (2026-10-11)
+Reviewed every picture on contact sheets. Retired near-duplicates and poor shots (cluttered, blurry, black background): birds 5, food 4, mountains 1, seasons 1. Fixed truncated titles. `trim-borders` cuts the black scan mat off photographed paintings (impressionism, masterpieces, ukiyoe; 7 pictures re-written).

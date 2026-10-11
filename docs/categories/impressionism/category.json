@@ -111,11 +111,11 @@
       "title": {
         "en": "Still Life with Peaches and Grapes"
       },
-      "file": "categories/impressionism/img/5428df40519b.webp",
-      "thumb": "categories/impressionism/thumb/5428df40519b.webp",
-      "w": 2048,
-      "h": 1717,
-      "avgColor": "#7b8a85",
+      "file": "categories/impressionism/img/52630a4237e8.webp",
+      "thumb": "categories/impressionism/thumb/52630a4237e8.webp",
+      "w": 1948,
+      "h": 1618,
+      "avgColor": "#899994",
       "creator": "Auguste Renoir",
       "year": 1881,
       "deathYear": 1919,
@@ -132,7 +132,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.375,
+      "lookAlike": 0.271,
       "difficulty": 2,
       "maxPieces": 1000
     },
@@ -141,11 +141,11 @@
       "title": {
         "en": "Two Young Girls at the Piano"
       },
-      "file": "categories/impressionism/img/cee04bbfb283.webp",
-      "thumb": "categories/impressionism/thumb/cee04bbfb283.webp",
-      "w": 1601,
-      "h": 2048,
-      "avgColor": "#5e5243",
+      "file": "categories/impressionism/img/38cb7f18e1c1.webp",
+      "thumb": "categories/impressionism/thumb/38cb7f18e1c1.webp",
+      "w": 1511,
+      "h": 1939,
+      "avgColor": "#695b4b",
       "creator": "Auguste Renoir",
       "year": 1892,
       "deathYear": 1919,
@@ -162,8 +162,8 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.243,
-      "difficulty": 1,
+      "lookAlike": 0.326,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {
@@ -201,11 +201,11 @@
       "title": {
         "en": "Poplars, Eragny"
       },
-      "file": "categories/impressionism/img/95273667027b.webp",
-      "thumb": "categories/impressionism/thumb/95273667027b.webp",
-      "w": 1461,
-      "h": 2048,
-      "avgColor": "#8c8c60",
+      "file": "categories/impressionism/img/ce9e74799440.webp",
+      "thumb": "categories/impressionism/thumb/ce9e74799440.webp",
+      "w": 1445,
+      "h": 2033,
+      "avgColor": "#8e8f61",
       "creator": "Camille Pissarro",
       "year": 1895,
       "deathYear": 1903,
@@ -222,8 +222,8 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.153,
-      "difficulty": 1,
+      "lookAlike": 0.271,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {
@@ -261,11 +261,11 @@
       "title": {
         "en": "Morning, An Overcast Day"
       },
-      "file": "categories/impressionism/img/0fdf794ba12a.webp",
-      "thumb": "categories/impressionism/thumb/0fdf794ba12a.webp",
-      "w": 2048,
-      "h": 1716,
-      "avgColor": "#a7a29b",
+      "file": "categories/impressionism/img/042a6fbb4f04.webp",
+      "thumb": "categories/impressionism/thumb/042a6fbb4f04.webp",
+      "w": 2025,
+      "h": 1692,
+      "avgColor": "#aba69f",
       "creator": "Camille Pissarro",
       "year": 1896,
       "deathYear": 1903,
@@ -282,7 +282,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.458,
+      "lookAlike": 0.5,
       "difficulty": 3,
       "maxPieces": 1000
     },
@@ -291,11 +291,11 @@
       "title": {
         "en": "The Garden of the Tuileries on a Spring"
       },
-      "file": "categories/impressionism/img/20504302a3eb.webp",
-      "thumb": "categories/impressionism/thumb/20504302a3eb.webp",
-      "w": 2048,
-      "h": 1639,
-      "avgColor": "#b0a690",
+      "file": "categories/impressionism/img/438ff043a84a.webp",
+      "thumb": "categories/impressionism/thumb/438ff043a84a.webp",
+      "w": 2038,
+      "h": 1620,
+      "avgColor": "#b3a992",
       "creator": "Camille Pissarro",
       "year": 1899,
       "deathYear": 1903,

@@ -51,11 +51,11 @@
       "title": {
         "en": "Allegory of the Catholic Faith"
       },
-      "file": "categories/masterpieces/img/4e300e08085f.webp",
-      "thumb": "categories/masterpieces/thumb/4e300e08085f.webp",
-      "w": 1598,
-      "h": 2048,
-      "avgColor": "#38342b",
+      "file": "categories/masterpieces/img/62aa887cc495.webp",
+      "thumb": "categories/masterpieces/thumb/62aa887cc495.webp",
+      "w": 1565,
+      "h": 2011,
+      "avgColor": "#3a362c",
       "creator": "Johannes Vermeer",
       "year": 1672,
       "deathYear": 1675,
@@ -72,7 +72,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.688,
+      "lookAlike": 0.694,
       "difficulty": 3,
       "maxPieces": 1000
     },
@@ -293,11 +293,11 @@
       "title": {
         "en": "Portrait of a Man"
       },
-      "file": "categories/masterpieces/img/a6d1dae4ce53.webp",
-      "thumb": "categories/masterpieces/thumb/a6d1dae4ce53.webp",
-      "w": 1841,
-      "h": 2048,
-      "avgColor": "#29211a",
+      "file": "categories/masterpieces/img/6def52f8f373.webp",
+      "thumb": "categories/masterpieces/thumb/6def52f8f373.webp",
+      "w": 1722,
+      "h": 1915,
+      "avgColor": "#2e261e",
       "creator": "Titian (Tiziano Vecellio)",
       "year": 1520,
       "deathYear": 1576,
@@ -314,7 +314,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "lookAlike": 0.792,
+      "lookAlike": 0.785,
       "difficulty": 3,
       "maxPieces": 1000
     }

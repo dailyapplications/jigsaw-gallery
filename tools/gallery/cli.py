@@ -150,6 +150,33 @@ def cmd_rate(a) -> None:
         store.write_json(store.category_path(store.DOCS, cid), cat)
 
 
+BORDER_CATEGORIES = ("impressionism", "masterpieces", "ukiyoe")  # photographed paintings and prints, where a black mat is a scan artefact
+
+
+def cmd_trim_borders(a) -> None:
+    """Cuts the black scan border off pictures in paintings categories and re-writes the files (new content hash)."""
+    import io
+    for cid in BORDER_CATEGORIES:
+        cat = store.load_category(store.DOCS, cid)
+        for x in cat["puzzles"]:
+            img = Image.open(store.DOCS / x["file"]).convert("RGB")
+            cut = images.trim_dark_border(img)
+            if cut.size == img.size:
+                continue
+            buf = io.BytesIO()
+            cut.save(buf, "PNG")
+            p = images.process(buf.getvalue())
+            old = [store.DOCS / x["file"], store.DOCS / x["thumb"]]
+            x["file"], x["thumb"] = f"categories/{cid}/img/{p.name}.webp", f"categories/{cid}/thumb/{p.name}.webp"
+            (store.DOCS / x["file"]).write_bytes(p.full)
+            (store.DOCS / x["thumb"]).write_bytes(p.thumb)
+            for f in old:
+                f.unlink(missing_ok=True)
+            x.update(w=p.width, h=p.height, avgColor=p.avg_color, lookAlike=p.look_alike, difficulty=images.difficulty_in(cid, p.look_alike), maxPieces=p.max_pieces)
+            print(f"{cid:14} {x['id']:22} {img.size} -> {cut.size}  {x['title']['en'][:40]}")
+        store.write_json(store.category_path(store.DOCS, cid), cat)
+
+
 def cmd_retitle(a) -> None:
     """Re-applies the title cleanup to every picture (English title only; translations are kept)."""
     from .titles import clean_title
@@ -208,6 +235,7 @@ def main(argv=None) -> None:
     s = sub.add_parser("retire"); s.add_argument("category"); s.add_argument("puzzle_id"); s.set_defaults(f=cmd_retire)
     s = sub.add_parser("import-illustrations"); s.set_defaults(f=cmd_import_illustrations)
     s = sub.add_parser("retitle"); s.set_defaults(f=cmd_retitle)
+    s = sub.add_parser("trim-borders"); s.set_defaults(f=cmd_trim_borders)
     s = sub.add_parser("rate"); s.add_argument("-v", "--verbose", action="store_true"); s.set_defaults(f=cmd_rate)
     s = sub.add_parser("build"); s.set_defaults(f=cmd_build)
     s = sub.add_parser("validate"); s.add_argument("--launch", action="store_true"); s.set_defaults(f=cmd_validate)

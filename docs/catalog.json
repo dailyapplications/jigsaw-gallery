@@ -66,8 +66,8 @@
         "hi": "पक्षी"
       },
       "order": 2,
-      "count": 15,
-      "rev": "90e9d0e896",
+      "count": 10,
+      "rev": "aa316f5ff9",
       "cover": "categories/birds/thumb/4691bf159f02.webp",
       "path": "categories/birds/category.json"
     },
@@ -158,8 +158,8 @@
         "hi": "पहाड़"
       },
       "order": 6,
-      "count": 12,
-      "rev": "2cd6557657",
+      "count": 11,
+      "rev": "6fd5ec4403",
       "cover": "categories/mountains/thumb/4b494deafb70.webp",
       "path": "categories/mountains/category.json"
     },
@@ -204,9 +204,9 @@
         "hi": "मिठाइयाँ और फल"
       },
       "order": 8,
-      "count": 14,
-      "rev": "db79521c04",
-      "cover": "categories/food/thumb/8ad2d1cc0d14.webp",
+      "count": 10,
+      "rev": "9eba7be23b",
+      "cover": "categories/food/thumb/5afb3dfd6af5.webp",
       "path": "categories/food/category.json"
     },
     {
@@ -227,8 +227,8 @@
         "hi": "मौसम और त्योहार"
       },
       "order": 9,
-      "count": 11,
-      "rev": "f0011769b0",
+      "count": 10,
+      "rev": "131cc1f650",
       "cover": "categories/seasons/thumb/4b1f10591a8e.webp",
       "path": "categories/seasons/category.json"
     },
@@ -251,7 +251,7 @@
       },
       "order": 10,
       "count": 11,
-      "rev": "8cff452c8b",
+      "rev": "40f9dadd4b",
       "cover": "categories/cities/thumb/674ec8eb486f.webp",
       "path": "categories/cities/category.json"
     },
@@ -274,7 +274,7 @@
       },
       "order": 11,
       "count": 12,
-      "rev": "2e8091f8be",
+      "rev": "7f291bdfe3",
       "cover": "categories/architecture/thumb/22bc3f563c07.webp",
       "path": "categories/architecture/category.json"
     },
@@ -297,7 +297,7 @@
       },
       "order": 12,
       "count": 16,
-      "rev": "72a8f8485b",
+      "rev": "32ee64d54c",
       "cover": "categories/space/thumb/65c8050bfb03.webp",
       "path": "categories/space/category.json"
     },
@@ -320,7 +320,7 @@
       },
       "order": 13,
       "count": 10,
-      "rev": "4a486dfa1a",
+      "rev": "d780c3d827",
       "cover": "categories/masterpieces/thumb/0d7b2782b357.webp",
       "path": "categories/masterpieces/category.json"
     },
@@ -343,7 +343,7 @@
       },
       "order": 14,
       "count": 11,
-      "rev": "6c7dc00b8a",
+      "rev": "efa7def794",
       "cover": "categories/impressionism/thumb/25d48dce9a5b.webp",
       "path": "categories/impressionism/category.json"
     },
@@ -366,10 +366,10 @@
       },
       "order": 15,
       "count": 12,
-      "rev": "1f8db5e241",
+      "rev": "a8aaae81d8",
       "cover": "categories/ukiyoe/thumb/3c9d9e825d2e.webp",
       "path": "categories/ukiyoe/category.json"
     }
   ],
-  "version": 1791700981
+  "version": 1791701110
 }
