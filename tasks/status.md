@@ -1,6 +1,6 @@
 # Status — gallery repo (START HERE)
-Last updated: 2026-10-11. Sibling app repo: `../jigsaw` (its `tasks/status.md` has the overall plan and next steps).
-Repo is local only; owner will create `dailyapplications/jigsaw-gallery` on GitHub later, then `git push -u origin master` and enable Pages (branch master, folder /docs).
+Last updated: 2026-10-11 (session 2: photo audit, Colour burst, more cartoons).
+Repo is on GitHub (`dailyapplications/jigsaw-gallery`, master) and served by Pages from `/docs`. Now 17 categories, 227 active pictures (difficulty mix 49/90/65 before the new cartoons; landscapes are at least medium). Session 2: audited every picture (retired weak/duplicate ones, trimmed black scan borders with `trim-borders`), added category `colour` and 8 colourful cartoon scenes.
 
 ## Done
 - `tools/gallery`: sources (met, cleveland, smk, nasa), images (WebP resize/hash), store, validate, schedule (daily.json), cli. 38 tests pass: `.venv/bin/python -m pytest -q`.
