@@ -9,6 +9,7 @@ from pathlib import Path
 
 from .images import Processed
 from .models import ALLOWED_LICENSES, SCHEMA_VERSION, Candidate
+from .titles import clean_title
 
 ROOT = Path(__file__).resolve().parents[2]
 DOCS = ROOT / "docs"
@@ -44,7 +45,7 @@ def puzzle_entry(c: Candidate, p: Processed, cat_id: str, today: str, publish_at
                  titles: dict[str, str] | None = None) -> dict:
     return {
         "id": f"{c.source}-{c.source_id}",
-        "title": {"en": c.title[:90], **(titles or {})},
+        "title": {"en": clean_title(c.title, f"{c.source}-{c.source_id}"), **(titles or {})},
         "file": f"categories/{cat_id}/img/{p.name}.webp",
         "thumb": f"categories/{cat_id}/thumb/{p.name}.webp",
         "w": p.width, "h": p.height, "avgColor": p.avg_color,

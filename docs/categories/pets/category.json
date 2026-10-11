@@ -51,7 +51,7 @@
     {
       "id": "commons-183770272",
       "title": {
-        "en": "White and gray silverpoint domestic cat lying down in basket"
+        "en": "White and gray silverpoint domestic cat lying"
       },
       "file": "categories/pets/img/bcbdb1d09be6.webp",
       "thumb": "categories/pets/thumb/bcbdb1d09be6.webp",
@@ -83,7 +83,7 @@
     {
       "id": "commons-159418977",
       "title": {
-        "en": "SZ 深圳 Shenzhen 寶安 BaoAn 萬豐大仟里 MaxLand Mall shop 屋虎貓館 Woo Hoo Pet Cat House February 2025 R"
+        "en": "SZ Shenzhen BaoAn MaxLand Mall shop Woo Hoo"
       },
       "file": "categories/pets/img/70d787d2460d.webp",
       "thumb": "categories/pets/thumb/70d787d2460d.webp",
@@ -108,7 +108,7 @@
       "retrieved": "2026-10-11",
       "addedAt": "2026-10-11",
       "publishAt": "2026-10-11",
-      "status": "active",
+      "status": "retired",
       "tags": [],
       "maxPieces": 1000
     },
@@ -243,7 +243,7 @@
     {
       "id": "commons-116675288",
       "title": {
-        "en": "Boxer (dog) , Iran 08"
+        "en": "Boxer (dog) , Iran"
       },
       "file": "categories/pets/img/afa83c3de287.webp",
       "thumb": "categories/pets/thumb/afa83c3de287.webp",
@@ -335,6 +335,70 @@
       "status": "active",
       "tags": [],
       "maxPieces": 1000
+    },
+    {
+      "id": "commons-145478988",
+      "title": {
+        "en": "Mixed-breed dogs in Serles"
+      },
+      "file": "categories/pets/img/f527c144fe7f.webp",
+      "thumb": "categories/pets/thumb/f527c144fe7f.webp",
+      "w": 1920,
+      "h": 1280,
+      "avgColor": "#888fac",
+      "difficulty": 2,
+      "lookAlike": 0.347,
+      "maxPieces": 1000,
+      "creator": "Wilfredor",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mixed-breed_dogs_in_Serles.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=145478988&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "commons-100956160",
+      "title": {
+        "en": "Dog park, small dog mix"
+      },
+      "file": "categories/pets/img/8834b8d14269.webp",
+      "thumb": "categories/pets/thumb/8834b8d14269.webp",
+      "w": 1920,
+      "h": 1440,
+      "avgColor": "#7f6e5e",
+      "difficulty": 3,
+      "lookAlike": 0.618,
+      "maxPieces": 1000,
+      "creator": "Kurt Kaiser",
+      "year": null,
+      "deathYear": null,
+      "source": "commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dog_park,_small_dog_mix.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "LicenseShortName": "CC0",
+        "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "own_work": true,
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&pageids=100956160&prop=imageinfo&iiprop=extmetadata&format=json"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
     }
   ]
 }

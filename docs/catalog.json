@@ -44,7 +44,7 @@
       },
       "order": 1,
       "count": 20,
-      "rev": "612e6710e2",
+      "rev": "19a994262a",
       "cover": "categories/wildlife/thumb/8f654394d960.webp",
       "path": "categories/wildlife/category.json"
     },
@@ -67,7 +67,7 @@
       },
       "order": 2,
       "count": 15,
-      "rev": "3e481533a8",
+      "rev": "90e9d0e896",
       "cover": "categories/birds/thumb/4691bf159f02.webp",
       "path": "categories/birds/category.json"
     },
@@ -89,8 +89,8 @@
         "hi": "बिल्लियाँ और कुत्ते"
       },
       "order": 3,
-      "count": 10,
-      "rev": "40217ce693",
+      "count": 11,
+      "rev": "35e2328dec",
       "cover": "categories/pets/thumb/bb51c5b4c271.webp",
       "path": "categories/pets/category.json"
     },
@@ -113,7 +113,7 @@
       },
       "order": 4,
       "count": 13,
-      "rev": "27c857a429",
+      "rev": "1e260ebb98",
       "cover": "categories/flowers/thumb/a7d82a816a18.webp",
       "path": "categories/flowers/category.json"
     },
@@ -136,7 +136,7 @@
       },
       "order": 5,
       "count": 11,
-      "rev": "4675959292",
+      "rev": "5042f2f578",
       "cover": "categories/seaside/thumb/989556cf9616.webp",
       "path": "categories/seaside/category.json"
     },
@@ -159,7 +159,7 @@
       },
       "order": 6,
       "count": 12,
-      "rev": "8e9350df7c",
+      "rev": "3b201e8576",
       "cover": "categories/mountains/thumb/4b494deafb70.webp",
       "path": "categories/mountains/category.json"
     },
@@ -182,7 +182,7 @@
       },
       "order": 7,
       "count": 11,
-      "rev": "e0cc46869d",
+      "rev": "f6996e8c3f",
       "cover": "categories/forests/thumb/9b9e8d4362cd.webp",
       "path": "categories/forests/category.json"
     },
@@ -205,7 +205,7 @@
       },
       "order": 8,
       "count": 14,
-      "rev": "85e04cb31f",
+      "rev": "db79521c04",
       "cover": "categories/food/thumb/8ad2d1cc0d14.webp",
       "path": "categories/food/category.json"
     },
@@ -228,7 +228,7 @@
       },
       "order": 9,
       "count": 11,
-      "rev": "4b93392b63",
+      "rev": "9bbc5a2ca8",
       "cover": "categories/seasons/thumb/4b1f10591a8e.webp",
       "path": "categories/seasons/category.json"
     },
@@ -251,7 +251,7 @@
       },
       "order": 10,
       "count": 11,
-      "rev": "4418d2063c",
+      "rev": "a71456ffd5",
       "cover": "categories/cities/thumb/674ec8eb486f.webp",
       "path": "categories/cities/category.json"
     },
@@ -274,7 +274,7 @@
       },
       "order": 11,
       "count": 12,
-      "rev": "b02b38dfb9",
+      "rev": "5453e0d9f4",
       "cover": "categories/architecture/thumb/22bc3f563c07.webp",
       "path": "categories/architecture/category.json"
     },
@@ -297,7 +297,7 @@
       },
       "order": 12,
       "count": 16,
-      "rev": "a6557433da",
+      "rev": "72a8f8485b",
       "cover": "categories/space/thumb/65c8050bfb03.webp",
       "path": "categories/space/category.json"
     },
@@ -343,7 +343,7 @@
       },
       "order": 14,
       "count": 11,
-      "rev": "06d55341de",
+      "rev": "6c7dc00b8a",
       "cover": "categories/impressionism/thumb/25d48dce9a5b.webp",
       "path": "categories/impressionism/category.json"
     },
@@ -366,10 +366,10 @@
       },
       "order": 15,
       "count": 12,
-      "rev": "b762a6a0cb",
+      "rev": "1f8db5e241",
       "cover": "categories/ukiyoe/thumb/3c9d9e825d2e.webp",
       "path": "categories/ukiyoe/category.json"
     }
   ],
-  "version": 1791677988
+  "version": 1791679748
 }

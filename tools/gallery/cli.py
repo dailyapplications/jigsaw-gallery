@@ -150,6 +150,16 @@ def cmd_rate(a) -> None:
         store.write_json(store.category_path(store.DOCS, cid), cat)
 
 
+def cmd_retitle(a) -> None:
+    """Re-applies the title cleanup to every picture (English title only; translations are kept)."""
+    from .titles import clean_title
+    for cid in store.category_ids(store.DOCS):
+        cat = store.load_category(store.DOCS, cid)
+        for x in cat["puzzles"]:
+            x["title"]["en"] = clean_title(x["title"]["en"], x["id"])
+        store.write_json(store.category_path(store.DOCS, cid), cat)
+
+
 def cmd_retire(a) -> None:
     print("retired" if store.retire(store.DOCS, a.category, a.puzzle_id) else "nothing to retire")
 
@@ -197,6 +207,7 @@ def main(argv=None) -> None:
     s = sub.add_parser("pick"); s.add_argument("category"); s.add_argument("numbers"); s.set_defaults(f=cmd_pick)
     s = sub.add_parser("retire"); s.add_argument("category"); s.add_argument("puzzle_id"); s.set_defaults(f=cmd_retire)
     s = sub.add_parser("import-illustrations"); s.set_defaults(f=cmd_import_illustrations)
+    s = sub.add_parser("retitle"); s.set_defaults(f=cmd_retitle)
     s = sub.add_parser("rate"); s.add_argument("-v", "--verbose", action="store_true"); s.set_defaults(f=cmd_rate)
     s = sub.add_parser("build"); s.set_defaults(f=cmd_build)
     s = sub.add_parser("validate"); s.add_argument("--launch", action="store_true"); s.set_defaults(f=cmd_validate)
