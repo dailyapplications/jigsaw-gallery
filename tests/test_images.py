@@ -70,3 +70,10 @@ def test_flat_picture_is_hard_and_varied_picture_is_easy():
 
 def test_difficulty_tiers_follow_thresholds():
     assert [images.difficulty_of(v) for v in (0.0, 0.26, 0.27, 0.42, 0.43, 1.0)] == [1, 1, 2, 2, 3, 3]
+
+
+def test_landscape_categories_are_never_easy_but_close_ups_can_be():
+    assert images.difficulty_in("mountains", 0.0) == 2
+    assert images.difficulty_in("seaside", 0.3) == 2
+    assert images.difficulty_in("seaside", 0.9) == 3          # the floor never lowers a hard picture
+    assert images.difficulty_in("birds", 0.0) == 1

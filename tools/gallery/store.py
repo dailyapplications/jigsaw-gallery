@@ -7,7 +7,7 @@ import time
 from datetime import date
 from pathlib import Path
 
-from .images import Processed
+from .images import Processed, difficulty_in
 from .models import ALLOWED_LICENSES, SCHEMA_VERSION, Candidate
 from .titles import clean_title
 
@@ -49,7 +49,7 @@ def puzzle_entry(c: Candidate, p: Processed, cat_id: str, today: str, publish_at
         "file": f"categories/{cat_id}/img/{p.name}.webp",
         "thumb": f"categories/{cat_id}/thumb/{p.name}.webp",
         "w": p.width, "h": p.height, "avgColor": p.avg_color,
-        "difficulty": p.difficulty, "lookAlike": p.look_alike, "maxPieces": p.max_pieces,
+        "difficulty": difficulty_in(cat_id, p.look_alike), "lookAlike": p.look_alike, "maxPieces": p.max_pieces,
         "creator": c.creator, "year": c.year, "deathYear": c.death_year,
         "source": c.source, "sourceUrl": c.source_url,
         "license": c.license, "licenseUrl": ALLOWED_LICENSES[c.license],

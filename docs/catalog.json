@@ -136,7 +136,7 @@
       },
       "order": 5,
       "count": 11,
-      "rev": "5042f2f578",
+      "rev": "4ce4fc1e02",
       "cover": "categories/seaside/thumb/989556cf9616.webp",
       "path": "categories/seaside/category.json"
     },
@@ -159,7 +159,7 @@
       },
       "order": 6,
       "count": 12,
-      "rev": "3b201e8576",
+      "rev": "2cd6557657",
       "cover": "categories/mountains/thumb/4b494deafb70.webp",
       "path": "categories/mountains/category.json"
     },
@@ -182,7 +182,7 @@
       },
       "order": 7,
       "count": 11,
-      "rev": "f6996e8c3f",
+      "rev": "f826e914d2",
       "cover": "categories/forests/thumb/9b9e8d4362cd.webp",
       "path": "categories/forests/category.json"
     },
@@ -228,7 +228,7 @@
       },
       "order": 9,
       "count": 11,
-      "rev": "9bbc5a2ca8",
+      "rev": "f0011769b0",
       "cover": "categories/seasons/thumb/4b1f10591a8e.webp",
       "path": "categories/seasons/category.json"
     },
@@ -251,7 +251,7 @@
       },
       "order": 10,
       "count": 11,
-      "rev": "a71456ffd5",
+      "rev": "8cff452c8b",
       "cover": "categories/cities/thumb/674ec8eb486f.webp",
       "path": "categories/cities/category.json"
     },
@@ -274,7 +274,7 @@
       },
       "order": 11,
       "count": 12,
-      "rev": "5453e0d9f4",
+      "rev": "2e8091f8be",
       "cover": "categories/architecture/thumb/22bc3f563c07.webp",
       "path": "categories/architecture/category.json"
     },
@@ -371,5 +371,5 @@
       "path": "categories/ukiyoe/category.json"
     }
   ],
-  "version": 1791679748
+  "version": 1791700981
 }

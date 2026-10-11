@@ -143,7 +143,7 @@ def cmd_rate(a) -> None:
         for x in cat["puzzles"]:
             share = images.look_alike_share(Image.open(store.DOCS / x["file"]))
             x["lookAlike"] = round(share, 3)
-            x["difficulty"] = CARTOON_DIFFICULTY.get(x["title"]["en"], 1) if x["source"] == "original" else images.difficulty_of(share)
+            x["difficulty"] = CARTOON_DIFFICULTY.get(x["title"]["en"], 1) if x["source"] == "original" else images.difficulty_in(cid, share)
             x["maxPieces"] = images.max_pieces_for(x["w"], x["h"])
             if a.verbose:
                 print(f"{cid:14} {x['id']:22} {share:.2f} -> {x['difficulty']}  {x['title']['en'][:40]}")

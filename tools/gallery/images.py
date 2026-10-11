@@ -59,6 +59,15 @@ def max_pieces_for(width: int, height: int) -> int:
     return max([n for n in PIECE_PRESETS if n <= fit] or [PIECE_PRESETS[0]])
 
 
+# Realistic landscapes and townscapes are full of detail (waves, leaves, rock, windows) and have no single clear subject,
+# so they are never "easy" however distinct the patches look. Close-ups with one subject (birds, flowers, food) can be.
+CATEGORY_FLOOR = {"mountains": 2, "seaside": 2, "forests": 2, "seasons": 2, "cities": 2, "architecture": 2}
+
+
+def difficulty_in(category: str, share: float) -> int:
+    return max(difficulty_of(share), CATEGORY_FLOOR.get(category, 1))
+
+
 def difficulty_of(share: float) -> int:
     """1 = easy, 2 = medium, 3 = hard."""
     return 1 if share < EASY_BELOW else 2 if share < MEDIUM_BELOW else 3
