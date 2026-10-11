@@ -98,3 +98,14 @@ def test_category_rev_changes_when_the_category_file_changes(docs):
     store.retire(docs, "art", "met-1")
     after = store.build_catalog(docs, "2026-06-01")["categories"][0]["rev"]
     assert before != after and len(after) == 10
+
+
+def test_seed_categories_have_titles_in_all_launch_languages():
+    import json
+    from pathlib import Path
+    languages = {"en", "es", "pt-BR", "fr", "de", "it", "ru", "tr", "id", "ar", "ja", "ko", "hi"}
+    seed = json.loads((Path(__file__).resolve().parents[1] / "seed" / "categories.json").read_text(encoding="utf-8"))
+    assert len(seed) >= 15
+    for c in seed:
+        assert set(c["title"]) == languages, c["id"]
+        assert all(t.strip() for t in c["title"].values())
