@@ -69,4 +69,4 @@ def test_flat_picture_is_hard_and_varied_picture_is_easy():
 
 
 def test_difficulty_tiers_follow_thresholds():
-    assert [images.difficulty_of(v) for v in (0.0, 0.39, 0.4, 0.59, 0.6, 1.0)] == [1, 1, 2, 2, 3, 3]
+    assert [images.difficulty_of(v) for v in (0.0, 0.26, 0.27, 0.42, 0.43, 1.0)] == [1, 1, 2, 2, 3, 3]

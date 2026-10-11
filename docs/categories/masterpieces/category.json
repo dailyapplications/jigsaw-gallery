@@ -103,7 +103,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.389,
-      "difficulty": 1,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {
@@ -225,7 +225,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.361,
-      "difficulty": 1,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {
@@ -255,7 +255,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.292,
-      "difficulty": 1,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {

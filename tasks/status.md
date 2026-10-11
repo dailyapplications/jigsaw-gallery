@@ -17,7 +17,7 @@ Repo is local only; owner will create `dailyapplications/jigsaw-gallery` on GitH
 
 ## 2026-10-11 pivot (owner feedback: pictures must look like the reference screenshots — bright photos/illustrations, easier; plus difficulty tiers)
 - Museum art alone is too dark/hard. New main source: **Wikimedia Commons CC0 own-work photos** (`sources/commons.py`; filter `incategory:"CC-Zero"`, LicenseShortName == CC0, Credit "Own work", ≥1600 px, blocked words for people/brands/art). Museums stay for "Old masters", "Impressionism", "Japanese prints"; NASA for "Space".
-- Every picture now has `difficulty` 1/2/3 (easy/medium/hard) from `images.look_alike_share` (share of look-alike patches; thresholds 0.40/0.60). `cli rate -v` recomputes. App shows a badge and filter; suggested piece counts per tier.
+- Every picture now has `difficulty` 1/2/3 (easy/medium/hard) from `images.look_alike_share` (share of look-alike patches; thresholds 0.27/0.43 = thirds of the seed set). `cli rate -v` recomputes. App shows a badge and filter; suggested piece counts per tier.
 - Categories (15): masterpieces ("Old masters"), impressionism, ukiyoe, mountains, seaside, forests, flowers, wildlife, birds, pets, space, cities, architecture ("Castles & landmarks"), food (replaced vintage), seasons.
 - Seeded so far: masterpieces 10, impressionism 11, ukiyoe 12. Others: run `run_commons.sh`-style candidate searches (queries listed in this file's history) and `pick` after viewing `work/contact/<cat>.jpg`. Avoid brands/people/modern art; photos of US/UK/NL landmarks are fine (building exteriors), avoid lit-up Eiffel Tower-type FOP cases.
 

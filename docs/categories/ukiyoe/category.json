@@ -73,7 +73,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.278,
-      "difficulty": 1,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {
@@ -103,7 +103,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.576,
-      "difficulty": 2,
+      "difficulty": 3,
       "maxPieces": 1000
     },
     {
@@ -133,7 +133,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.576,
-      "difficulty": 2,
+      "difficulty": 3,
       "maxPieces": 1000
     },
     {
@@ -193,7 +193,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.347,
-      "difficulty": 1,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {
@@ -223,7 +223,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.319,
-      "difficulty": 1,
+      "difficulty": 2,
       "maxPieces": 1000
     },
     {
@@ -253,7 +253,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.493,
-      "difficulty": 2,
+      "difficulty": 3,
       "maxPieces": 1000
     },
     {
@@ -283,7 +283,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.479,
-      "difficulty": 2,
+      "difficulty": 3,
       "maxPieces": 1000
     },
     {
@@ -374,7 +374,7 @@
       "status": "active",
       "tags": [],
       "lookAlike": 0.514,
-      "difficulty": 2,
+      "difficulty": 3,
       "maxPieces": 1000
     }
   ]

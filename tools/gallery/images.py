@@ -23,7 +23,7 @@ class Rejected(Exception):
 # Many look-alike patches make pieces hard to place. Thresholds were tuned on the seed pictures.
 GRID = 12
 SAME_PATCH_DISTANCE = 5.0
-EASY_BELOW, MEDIUM_BELOW = 0.40, 0.60
+EASY_BELOW, MEDIUM_BELOW = 0.27, 0.43
 
 
 def look_alike_share(img: Image.Image) -> float:
