@@ -46,7 +46,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-185116316",
@@ -78,7 +78,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-147066413",
@@ -110,7 +110,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-44483060",
@@ -142,7 +142,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-149269157",
@@ -174,7 +174,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-149269159",
@@ -206,7 +206,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-193842982",
@@ -238,7 +238,7 @@
       "publishAt": "2026-10-11",
       "status": "retired",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-108347901",
@@ -270,7 +270,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-104195753",
@@ -302,7 +302,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "commons-30507413",
@@ -334,7 +334,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "commons-146357795",
@@ -366,7 +366,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     }
   ]
 }

@@ -80,14 +80,17 @@ def trim_dark_border(img: Image.Image) -> Image.Image:
     return img.crop((l + pad if l else 0, t + pad if t else 0, img.width - (r + pad if r else 0), img.height - (b + pad if b else 0)))
 
 
-PIECE_PRESETS = (24, 40, 60, 100, 150, 300, 500, 1000)
-MIN_PIECE_PX = 45  # a piece smaller than this many pixels looks soft
+PIECE_PRESETS = (24, 40, 60, 100, 150, 200, 300, 500, 750, 1000, 1500, 2000, 3000)  # keep in sync with PuzzleGrid.PRESETS in the app
+
+
+def min_piece_px(pieces: int) -> int:
+    """Smallest piece edge in pixels that still looks sharp; the very big puzzles accept slightly softer pieces."""
+    return 45 if pieces <= 1000 else 38 if pieces <= 1500 else 34 if pieces <= 2000 else 30
 
 
 def max_pieces_for(width: int, height: int) -> int:
-    """Biggest preset piece count whose pieces would still be at least MIN_PIECE_PX across."""
-    fit = (width // MIN_PIECE_PX) * (height // MIN_PIECE_PX)
-    return max([n for n in PIECE_PRESETS if n <= fit] or [PIECE_PRESETS[0]])
+    """Biggest preset piece count whose pieces would still be sharp enough."""
+    return max([n for n in PIECE_PRESETS if (width // min_piece_px(n)) * (height // min_piece_px(n)) >= n] or [PIECE_PRESETS[0]])
 
 
 # Realistic landscapes and townscapes are full of detail (waves, leaves, rock, windows) and have no single clear subject,

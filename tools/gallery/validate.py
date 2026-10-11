@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 
 from . import store
-from .images import MAX_FULL_BYTES
+from .images import MAX_FULL_BYTES, PIECE_PRESETS
 from .models import ALLOWED_LICENSES, LATEST_ANONYMOUS_WORK_YEAR, LATEST_CREATOR_DEATH_YEAR
 
 REQUIRED = ("id", "title", "file", "thumb", "w", "h", "creator", "source", "sourceUrl", "license",
@@ -35,7 +35,7 @@ def validate_puzzle(docs: Path, cat_id: str, x: dict) -> list[str]:
         errs.append(f"{where}: title needs an English entry")
     if x.get("difficulty") not in (1, 2, 3):
         errs.append(f"{where}: difficulty must be 1, 2 or 3")
-    if x.get("maxPieces") not in (24, 40, 60, 100, 150, 300, 500, 1000):
+    if x.get("maxPieces") not in PIECE_PRESETS:
         errs.append(f"{where}: maxPieces must be a piece preset")
     year, death = x.get("year"), x.get("deathYear")
     if x["license"] != "NASA" and x["source"] not in ("commons", "original"):

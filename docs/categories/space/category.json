@@ -45,7 +45,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "nasa-GSFC_20171208_Archive_e001955",
@@ -107,7 +107,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "nasa-GSFC_20171208_Archive_e000710",
@@ -138,7 +138,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "nasa-hubble-captures-vivid-auroras-in-jupiters-atmosphere_28000029525_o",
@@ -169,7 +169,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "nasa-GSFC_20171208_Archive_e000034",
@@ -200,7 +200,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "nasa-hubble-catches-stellar-exodus-in-action_17644845341_o",
@@ -231,7 +231,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "nasa-S39-23-020",
@@ -262,7 +262,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "nasa-sl4-143-4707",
@@ -293,7 +293,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "nasa-GSFC_20171208_Archive_e001465",
@@ -369,7 +369,7 @@
       "avgColor": "#1e1110",
       "difficulty": 3,
       "lookAlike": 0.896,
-      "maxPieces": 500,
+      "maxPieces": 750,
       "creator": "NASA/GSFC",
       "year": 2017,
       "deathYear": null,
@@ -400,7 +400,7 @@
       "avgColor": "#4e5860",
       "difficulty": 2,
       "lookAlike": 0.424,
-      "maxPieces": 500,
+      "maxPieces": 750,
       "creator": "NASA/GSFC",
       "year": 2017,
       "deathYear": null,
@@ -431,7 +431,7 @@
       "avgColor": "#362c2c",
       "difficulty": 3,
       "lookAlike": 0.625,
-      "maxPieces": 500,
+      "maxPieces": 750,
       "creator": "NASA/GSFC",
       "year": 2017,
       "deathYear": null,

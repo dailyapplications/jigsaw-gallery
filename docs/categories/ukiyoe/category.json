@@ -44,7 +44,7 @@
       "tags": [],
       "lookAlike": 0.646,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 1500
     },
     {
       "id": "met-54305",
@@ -74,7 +74,7 @@
       "tags": [],
       "lookAlike": 0.278,
       "difficulty": 2,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "cleveland-111654",
@@ -104,7 +104,7 @@
       "tags": [],
       "lookAlike": 0.576,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "cleveland-118800",
@@ -134,7 +134,7 @@
       "tags": [],
       "lookAlike": 0.576,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "cleveland-111656",
@@ -164,7 +164,7 @@
       "tags": [],
       "lookAlike": 0.215,
       "difficulty": 1,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "met-56906",
@@ -194,7 +194,7 @@
       "tags": [],
       "lookAlike": 0.347,
       "difficulty": 2,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "met-45294",
@@ -224,7 +224,7 @@
       "tags": [],
       "lookAlike": 0.319,
       "difficulty": 2,
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "met-36937",
@@ -254,7 +254,7 @@
       "tags": [],
       "lookAlike": 0.493,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "cleveland-152499",
@@ -284,7 +284,7 @@
       "tags": [],
       "lookAlike": 0.479,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "cleveland-103244",
@@ -314,7 +314,7 @@
       "tags": [],
       "lookAlike": 0.604,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "cleveland-120225",
@@ -344,7 +344,7 @@
       "tags": [],
       "lookAlike": 0.701,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "smk-KKS17533",
@@ -375,7 +375,7 @@
       "tags": [],
       "lookAlike": 0.514,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     }
   ]
 }

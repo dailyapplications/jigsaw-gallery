@@ -46,7 +46,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-183770272",
@@ -78,7 +78,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-159418977",
@@ -110,7 +110,7 @@
       "publishAt": "2026-10-11",
       "status": "retired",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-76097663",
@@ -142,7 +142,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "commons-147230400",
@@ -174,7 +174,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-148465188",
@@ -206,7 +206,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-61369169",
@@ -238,7 +238,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "commons-116675288",
@@ -270,7 +270,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "commons-163829632",
@@ -302,7 +302,7 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": [],
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "commons-65257801",
@@ -348,7 +348,7 @@
       "avgColor": "#888fac",
       "difficulty": 2,
       "lookAlike": 0.347,
-      "maxPieces": 1000,
+      "maxPieces": 2000,
       "creator": "Wilfredor",
       "year": null,
       "deathYear": null,
@@ -380,7 +380,7 @@
       "avgColor": "#7f6e5e",
       "difficulty": 3,
       "lookAlike": 0.618,
-      "maxPieces": 1000,
+      "maxPieces": 3000,
       "creator": "Kurt Kaiser",
       "year": null,
       "deathYear": null,

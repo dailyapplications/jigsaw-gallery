@@ -28,14 +28,17 @@ def test_small_image_is_rejected():
 
 
 def test_max_pieces_follows_resolution():
-    assert images.max_pieces_for(2048, 1365) == 1000
-    assert images.max_pieces_for(1280, 1215) == 500
+    assert images.max_pieces_for(2048, 1365) == 3000
+    assert images.max_pieces_for(1280, 1215) == 750
     assert images.max_pieces_for(1200, 1200) == 500
+    assert images.max_pieces_for(1500, 1000) == 500     # too small for 750+ sharp pieces
+    assert images.max_pieces_for(2048, 1024) == 750     # a panorama-ish shape fits fewer sharp pieces
+    assert images.max_pieces_for(2048, 1536) == 3000
     assert images.max_pieces_for(300, 200) == 24   # never below the smallest preset
 
 
 def test_process_reports_max_pieces():
-    assert images.process(jpeg(4000, 3000)).max_pieces == 1000
+    assert images.process(jpeg(4000, 3000)).max_pieces == 3000
     assert images.process(jpeg(1280, 1100)).max_pieces == 500
 
 

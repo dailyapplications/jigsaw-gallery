@@ -44,7 +44,7 @@
       "tags": [],
       "lookAlike": 0.701,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "met-437877",
@@ -74,7 +74,7 @@
       "tags": [],
       "lookAlike": 0.681,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "met-437881",
@@ -104,7 +104,7 @@
       "tags": [],
       "lookAlike": 0.389,
       "difficulty": 2,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "met-437879",
@@ -134,7 +134,7 @@
       "tags": [],
       "lookAlike": 0.632,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "met-437880",
@@ -164,7 +164,7 @@
       "tags": [],
       "lookAlike": 0.701,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "smk-KMS250",
@@ -195,7 +195,7 @@
       "tags": [],
       "lookAlike": 0.792,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "smk-KMS4002",
@@ -226,7 +226,7 @@
       "tags": [],
       "lookAlike": 0.361,
       "difficulty": 2,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "cleveland-131338",
@@ -256,7 +256,7 @@
       "tags": [],
       "lookAlike": 0.292,
       "difficulty": 2,
-      "maxPieces": 1000
+      "maxPieces": 2000
     },
     {
       "id": "cleveland-157083",
@@ -286,7 +286,7 @@
       "tags": [],
       "lookAlike": 0.403,
       "difficulty": 2,
-      "maxPieces": 1000
+      "maxPieces": 3000
     },
     {
       "id": "met-437825",
@@ -316,7 +316,7 @@
       "tags": [],
       "lookAlike": 0.785,
       "difficulty": 3,
-      "maxPieces": 1000
+      "maxPieces": 3000
     }
   ]
 }
