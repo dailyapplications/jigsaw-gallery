@@ -111,7 +111,8 @@ def cmd_pick(a) -> None:
 # Cartoons have large flat areas that the photo-oriented rating calls hard; they are made for kids with few big
 # pieces, so they are rated by hand: 1 easy, 2 medium.
 CARTOON_DIFFICULTY = {"Happy farm": 1, "Candy land": 1, "Rainbow sky": 1, "Little town": 1, "Jungle friends": 1, "Forest friends": 1,
-                      "Pets party": 1, "Cozy pets": 1, "Under the sea": 2, "Space adventure": 2, "Dino valley": 2, "Pirate bay": 2, "Winter fun": 2, "Insect garden": 2}
+                      "Pets party": 1, "Cozy pets": 1, "Under the sea": 2, "Space adventure": 2, "Dino valley": 2, "Pirate bay": 2, "Winter fun": 2, "Insect garden": 2,
+                      "Balloon festival": 1, "Birthday party": 2, "Parrot paradise": 2, "Magic garden": 1, "Reef party": 2, "Busy road": 1, "Safari rainbow": 1, "Fruit orchard": 2}
 
 
 def cmd_import_illustrations(a) -> None:
@@ -150,7 +151,7 @@ def cmd_rate(a) -> None:
         store.write_json(store.category_path(store.DOCS, cid), cat)
 
 
-BORDER_CATEGORIES = ("impressionism", "masterpieces", "ukiyoe")  # photographed paintings and prints, where a black mat is a scan artefact
+BORDER_CATEGORIES = ("impressionism", "masterpieces", "ukiyoe", "colour")  # photographed paintings and prints, where a black mat is a scan artefact
 
 
 def cmd_trim_borders(a) -> None:
@@ -159,6 +160,8 @@ def cmd_trim_borders(a) -> None:
     for cid in BORDER_CATEGORIES:
         cat = store.load_category(store.DOCS, cid)
         for x in cat["puzzles"]:
+            if x["source"] == "commons":  # photos can have genuinely dark edges (night, sunset foregrounds)
+                continue
             img = Image.open(store.DOCS / x["file"]).convert("RGB")
             cut = images.trim_dark_border(img)
             if cut.size == img.size:

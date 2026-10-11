@@ -77,3 +77,21 @@ def test_landscape_categories_are_never_easy_but_close_ups_can_be():
     assert images.difficulty_in("seaside", 0.3) == 2
     assert images.difficulty_in("seaside", 0.9) == 3          # the floor never lowers a hard picture
     assert images.difficulty_in("birds", 0.0) == 1
+
+
+def test_black_scan_border_is_trimmed_and_content_kept():
+    from PIL import Image
+    img = Image.new("RGB", (400, 300), (10, 10, 10))
+    img.paste(Image.new("RGB", (340, 250), (200, 120, 60)), (30, 25))
+    assert images.dark_border(img) == (30, 25, 30, 25)
+    cut = images.trim_dark_border(img)
+    assert cut.size == (340 - 6, 250 - 6) and cut.getpixel((5, 5)) == (200, 120, 60)
+
+
+def test_pictures_without_a_black_border_or_with_a_dark_foreground_are_left_alone():
+    from PIL import Image
+    light = Image.new("RGB", (400, 300), (200, 200, 200))
+    assert images.trim_dark_border(light) is light
+    sunset = Image.new("RGB", (400, 300), (230, 140, 60))
+    sunset.paste(Image.new("RGB", (400, 120), (5, 5, 5)), (0, 180))          # a 40 % dark foreground is not a scan border
+    assert images.dark_border(sunset)[3] <= int(300 * images.BORDER_MAX_SHARE)

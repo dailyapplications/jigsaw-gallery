@@ -9,3 +9,6 @@ Owner feedback: realistic mountain/sea photos are not easy. The look-alike score
 
 ## Photo audit (2026-10-11)
 Reviewed every picture on contact sheets. Retired near-duplicates and poor shots (cluttered, blurry, black background): birds 5, food 4, mountains 1, seasons 1. Fixed truncated titles. `trim-borders` cuts the black scan mat off photographed paintings (impressionism, masterpieces, ukiyoe; 7 pictures re-written).
+
+## "Colour burst" category and more cartoons (2026-10-11)
+Owner asked for more colourful pictures. New category `colour` (28 pictures): CC0 Commons photos (lorikeets, lavender, poppies, umbrellas, Chefchaouen door, sky) plus colourful public-domain paintings (Van Gogh, Gauguin, Rousseau, Signac via Met/Cleveland). Eight new colourful cartoon scenes added to `kids` (22 there now). `trim-borders` also runs on non-Commons pictures in `colour`.

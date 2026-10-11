@@ -18,6 +18,24 @@
   }
  },
  {
+  "id": "colour",
+  "title": {
+   "en": "Colour burst",
+   "es": "Explosión de color",
+   "pt-BR": "Explosão de cores",
+   "fr": "Éclats de couleurs",
+   "de": "Farbenfroh",
+   "it": "Esplosione di colori",
+   "ru": "Яркие краски",
+   "tr": "Renk cümbüşü",
+   "id": "Warna-warni",
+   "ar": "ألوان زاهية",
+   "ja": "カラフル",
+   "ko": "알록달록",
+   "hi": "रंगों की बहार"
+  }
+ },
+ {
   "id": "wildlife",
   "title": {
    "en": "Wildlife",

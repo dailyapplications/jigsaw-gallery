@@ -435,6 +435,246 @@
       "publishAt": "2026-10-11",
       "status": "active",
       "tags": []
+    },
+    {
+      "id": "original-balloon-festival",
+      "title": {
+        "en": "Balloon festival"
+      },
+      "file": "categories/kids/img/d301d42a1070.webp",
+      "thumb": "categories/kids/thumb/d301d42a1070.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#a1c2b7",
+      "difficulty": 2,
+      "lookAlike": 0.347,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-birthday-party",
+      "title": {
+        "en": "Birthday party"
+      },
+      "file": "categories/kids/img/9a197e0306ec.webp",
+      "thumb": "categories/kids/thumb/9a197e0306ec.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#f3d9d7",
+      "difficulty": 3,
+      "lookAlike": 0.514,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-parrot-paradise",
+      "title": {
+        "en": "Parrot paradise"
+      },
+      "file": "categories/kids/img/94ea3e72038b.webp",
+      "thumb": "categories/kids/thumb/94ea3e72038b.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#acd3be",
+      "difficulty": 1,
+      "lookAlike": 0.264,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-magic-garden",
+      "title": {
+        "en": "Magic garden"
+      },
+      "file": "categories/kids/img/0ca00f5c29a9.webp",
+      "thumb": "categories/kids/thumb/0ca00f5c29a9.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#c5ceb3",
+      "difficulty": 2,
+      "lookAlike": 0.396,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-reef-party",
+      "title": {
+        "en": "Reef party"
+      },
+      "file": "categories/kids/img/e13275330cd7.webp",
+      "thumb": "categories/kids/thumb/e13275330cd7.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#66a6d0",
+      "difficulty": 2,
+      "lookAlike": 0.424,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-busy-road",
+      "title": {
+        "en": "Busy road"
+      },
+      "file": "categories/kids/img/ecbef7f74437.webp",
+      "thumb": "categories/kids/thumb/ecbef7f74437.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#9db4b5",
+      "difficulty": 2,
+      "lookAlike": 0.306,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-safari-rainbow",
+      "title": {
+        "en": "Safari rainbow"
+      },
+      "file": "categories/kids/img/b9168cfdf5db.webp",
+      "thumb": "categories/kids/thumb/b9168cfdf5db.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#d7be86",
+      "difficulty": 2,
+      "lookAlike": 0.326,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
+    },
+    {
+      "id": "original-fruit-orchard",
+      "title": {
+        "en": "Fruit orchard"
+      },
+      "file": "categories/kids/img/5db0fd8f85b3.webp",
+      "thumb": "categories/kids/thumb/5db0fd8f85b3.webp",
+      "w": 2048,
+      "h": 1536,
+      "avgColor": "#a5d2ab",
+      "difficulty": 3,
+      "lookAlike": 0.438,
+      "maxPieces": 1000,
+      "creator": "Daily Applications",
+      "year": 2026,
+      "deathYear": null,
+      "source": "original",
+      "sourceUrl": "https://github.com/dailyapplications/jigsaw-gallery/blob/master/tools/illustrations/scenes.py",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "proof": {
+        "own_work": true,
+        "generator": "tools/illustrations"
+      },
+      "retrieved": "2026-10-11",
+      "addedAt": "2026-10-11",
+      "publishAt": "2026-10-11",
+      "status": "active",
+      "tags": []
     }
   ]
 }

@@ -20,10 +20,33 @@
         "hi": "मज़ेदार कार्टून"
       },
       "order": 0,
-      "count": 14,
-      "rev": "a79d2048a4",
+      "count": 22,
+      "rev": "4e49842705",
       "cover": "categories/kids/thumb/143459c3e679.webp",
       "path": "categories/kids/category.json"
+    },
+    {
+      "id": "colour",
+      "title": {
+        "en": "Colour burst",
+        "es": "Explosión de color",
+        "pt-BR": "Explosão de cores",
+        "fr": "Éclats de couleurs",
+        "de": "Farbenfroh",
+        "it": "Esplosione di colori",
+        "ru": "Яркие краски",
+        "tr": "Renk cümbüşü",
+        "id": "Warna-warni",
+        "ar": "ألوان زاهية",
+        "ja": "カラフル",
+        "ko": "알록달록",
+        "hi": "रंगों की बहार"
+      },
+      "order": 1,
+      "count": 27,
+      "rev": "947ee3ed12",
+      "cover": "categories/colour/thumb/dc7107d5fb60.webp",
+      "path": "categories/colour/category.json"
     },
     {
       "id": "wildlife",
@@ -42,7 +65,7 @@
         "ko": "야생동물",
         "hi": "वन्यजीव"
       },
-      "order": 1,
+      "order": 2,
       "count": 20,
       "rev": "19a994262a",
       "cover": "categories/wildlife/thumb/8f654394d960.webp",
@@ -65,7 +88,7 @@
         "ko": "새",
         "hi": "पक्षी"
       },
-      "order": 2,
+      "order": 3,
       "count": 10,
       "rev": "aa316f5ff9",
       "cover": "categories/birds/thumb/4691bf159f02.webp",
@@ -88,7 +111,7 @@
         "ko": "고양이와 강아지",
         "hi": "बिल्लियाँ और कुत्ते"
       },
-      "order": 3,
+      "order": 4,
       "count": 11,
       "rev": "35e2328dec",
       "cover": "categories/pets/thumb/bb51c5b4c271.webp",
@@ -111,7 +134,7 @@
         "ko": "꽃과 정원",
         "hi": "फूल और बगीचे"
       },
-      "order": 4,
+      "order": 5,
       "count": 13,
       "rev": "1e260ebb98",
       "cover": "categories/flowers/thumb/a7d82a816a18.webp",
@@ -134,7 +157,7 @@
         "ko": "바다와 해변",
         "hi": "समुद्र और तट"
       },
-      "order": 5,
+      "order": 6,
       "count": 11,
       "rev": "4ce4fc1e02",
       "cover": "categories/seaside/thumb/989556cf9616.webp",
@@ -157,7 +180,7 @@
         "ko": "산",
         "hi": "पहाड़"
       },
-      "order": 6,
+      "order": 7,
       "count": 11,
       "rev": "6fd5ec4403",
       "cover": "categories/mountains/thumb/4b494deafb70.webp",
@@ -180,7 +203,7 @@
         "ko": "숲과 가을",
         "hi": "जंगल और पतझड़"
       },
-      "order": 7,
+      "order": 8,
       "count": 11,
       "rev": "f826e914d2",
       "cover": "categories/forests/thumb/9b9e8d4362cd.webp",
@@ -203,7 +226,7 @@
         "ko": "디저트와 과일",
         "hi": "मिठाइयाँ और फल"
       },
-      "order": 8,
+      "order": 9,
       "count": 10,
       "rev": "9eba7be23b",
       "cover": "categories/food/thumb/5afb3dfd6af5.webp",
@@ -226,7 +249,7 @@
         "ko": "계절과 명절",
         "hi": "मौसम और त्योहार"
       },
-      "order": 9,
+      "order": 10,
       "count": 10,
       "rev": "131cc1f650",
       "cover": "categories/seasons/thumb/4b1f10591a8e.webp",
@@ -249,7 +272,7 @@
         "ko": "도시와 다리",
         "hi": "शहर और पुल"
       },
-      "order": 10,
+      "order": 11,
       "count": 11,
       "rev": "40f9dadd4b",
       "cover": "categories/cities/thumb/674ec8eb486f.webp",
@@ -272,7 +295,7 @@
         "ko": "성과 명소",
         "hi": "किले और प्रसिद्ध स्थल"
       },
-      "order": 11,
+      "order": 12,
       "count": 12,
       "rev": "7f291bdfe3",
       "cover": "categories/architecture/thumb/22bc3f563c07.webp",
@@ -295,7 +318,7 @@
         "ko": "우주",
         "hi": "अंतरिक्ष"
       },
-      "order": 12,
+      "order": 13,
       "count": 16,
       "rev": "32ee64d54c",
       "cover": "categories/space/thumb/65c8050bfb03.webp",
@@ -318,7 +341,7 @@
         "ko": "거장의 명화",
         "hi": "महान चित्रकार"
       },
-      "order": 13,
+      "order": 14,
       "count": 10,
       "rev": "d780c3d827",
       "cover": "categories/masterpieces/thumb/0d7b2782b357.webp",
@@ -341,7 +364,7 @@
         "ko": "인상주의",
         "hi": "प्रभाववाद"
       },
-      "order": 14,
+      "order": 15,
       "count": 11,
       "rev": "efa7def794",
       "cover": "categories/impressionism/thumb/25d48dce9a5b.webp",
@@ -364,12 +387,12 @@
         "ko": "일본 판화",
         "hi": "जापानी प्रिंट"
       },
-      "order": 15,
+      "order": 16,
       "count": 12,
       "rev": "a8aaae81d8",
       "cover": "categories/ukiyoe/thumb/3c9d9e825d2e.webp",
       "path": "categories/ukiyoe/category.json"
     }
   ],
-  "version": 1791701110
+  "version": 1791701661
 }
