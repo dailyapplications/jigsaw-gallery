@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-11": {
-      "category": "flowers",
-      "id": "commons-17253033"
-    },
     "2026-10-12": {
       "category": "kids",
       "id": "original-little-town"
@@ -179,6 +175,10 @@
     "2026-11-24": {
       "category": "birds",
       "id": "commons-158482823"
+    },
+    "2026-11-25": {
+      "category": "mountains",
+      "id": "commons-152791554"
     }
   }
 }
