@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-13": {
-      "category": "forests",
-      "id": "commons-159339014"
-    },
     "2026-10-14": {
       "category": "masterpieces",
       "id": "met-437881"
@@ -179,6 +175,10 @@
     "2026-11-26": {
       "category": "kids",
       "id": "original-birthday-party"
+    },
+    "2026-11-27": {
+      "category": "wildlife",
+      "id": "commons-179595010"
     }
   }
 }
