@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-14": {
-      "category": "masterpieces",
-      "id": "met-437881"
-    },
     "2026-10-15": {
       "category": "seasons",
       "id": "commons-108347901"
@@ -179,6 +175,10 @@
     "2026-11-27": {
       "category": "wildlife",
       "id": "commons-179595010"
+    },
+    "2026-11-28": {
+      "category": "ukiyoe",
+      "id": "cleveland-111654"
     }
   }
 }
