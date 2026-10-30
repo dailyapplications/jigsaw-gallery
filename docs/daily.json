@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-15": {
-      "category": "seasons",
-      "id": "commons-108347901"
-    },
     "2026-10-16": {
       "category": "kids",
       "id": "original-under-the-sea"
@@ -179,6 +175,10 @@
     "2026-11-28": {
       "category": "ukiyoe",
       "id": "cleveland-111654"
+    },
+    "2026-11-29": {
+      "category": "masterpieces",
+      "id": "met-437880"
     }
   }
 }
