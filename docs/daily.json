@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-18": {
-      "category": "cities",
-      "id": "commons-143198012"
-    },
     "2026-10-19": {
       "category": "impressionism",
       "id": "met-897321"
@@ -179,6 +175,10 @@
     "2026-12-01": {
       "category": "kids",
       "id": "original-little-town"
+    },
+    "2026-12-02": {
+      "category": "forests",
+      "id": "commons-159339014"
     }
   }
 }
