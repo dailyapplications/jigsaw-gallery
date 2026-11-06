@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-22": {
-      "category": "flowers",
-      "id": "commons-147989862"
-    },
     "2026-10-23": {
       "category": "flowers",
       "id": "commons-157793055"
@@ -179,6 +175,10 @@
     "2026-12-05": {
       "category": "colour",
       "id": "cleveland-135180"
+    },
+    "2026-12-06": {
+      "category": "space",
+      "id": "nasa-GSFC_20171208_Archive_e001518"
     }
   }
 }
