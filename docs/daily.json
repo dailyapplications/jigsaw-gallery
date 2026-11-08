@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-24": {
-      "category": "mountains",
-      "id": "commons-120818047"
-    },
     "2026-10-25": {
       "category": "architecture",
       "id": "commons-145829009"
@@ -179,6 +175,10 @@
     "2026-12-07": {
       "category": "impressionism",
       "id": "met-897321"
+    },
+    "2026-12-08": {
+      "category": "flowers",
+      "id": "commons-147989862"
     }
   }
 }
