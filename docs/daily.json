@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-25": {
-      "category": "architecture",
-      "id": "commons-145829009"
-    },
     "2026-10-26": {
       "category": "food",
       "id": "commons-29180497"
@@ -179,6 +175,10 @@
     "2026-12-08": {
       "category": "flowers",
       "id": "commons-147989862"
+    },
+    "2026-12-09": {
+      "category": "kids",
+      "id": "original-under-the-sea"
     }
   }
 }
