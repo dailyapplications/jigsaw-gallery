@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-26": {
-      "category": "food",
-      "id": "commons-29180497"
-    },
     "2026-10-27": {
       "category": "seaside",
       "id": "commons-114833584"
@@ -179,6 +175,10 @@
     "2026-12-09": {
       "category": "kids",
       "id": "original-under-the-sea"
+    },
+    "2026-12-10": {
+      "category": "flowers",
+      "id": "commons-151551249"
     }
   }
 }
