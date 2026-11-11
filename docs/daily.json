@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-27": {
-      "category": "seaside",
-      "id": "commons-114833584"
-    },
     "2026-10-28": {
       "category": "impressionism",
       "id": "met-459112"
@@ -179,6 +175,10 @@
     "2026-12-10": {
       "category": "flowers",
       "id": "commons-151551249"
+    },
+    "2026-12-11": {
+      "category": "cities",
+      "id": "commons-143198012"
     }
   }
 }
