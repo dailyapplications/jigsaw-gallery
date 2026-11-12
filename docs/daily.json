@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-28": {
-      "category": "impressionism",
-      "id": "met-459112"
-    },
     "2026-10-29": {
       "category": "food",
       "id": "commons-150256458"
@@ -179,6 +175,10 @@
     "2026-12-11": {
       "category": "cities",
       "id": "commons-143198012"
+    },
+    "2026-12-12": {
+      "category": "mountains",
+      "id": "commons-147562328"
     }
   }
 }
