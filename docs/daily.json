@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-10-29": {
-      "category": "food",
-      "id": "commons-150256458"
-    },
     "2026-10-30": {
       "category": "seaside",
       "id": "commons-146957190"
@@ -179,6 +175,10 @@
     "2026-12-12": {
       "category": "mountains",
       "id": "commons-147562328"
+    },
+    "2026-12-13": {
+      "category": "wildlife",
+      "id": "commons-180847548"
     }
   }
 }
