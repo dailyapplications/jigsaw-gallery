@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-02": {
-      "category": "impressionism",
-      "id": "met-437307"
-    },
     "2026-11-03": {
       "category": "birds",
       "id": "commons-77704644"
@@ -179,6 +175,10 @@
     "2026-12-16": {
       "category": "wildlife",
       "id": "commons-169279189"
+    },
+    "2026-12-17": {
+      "category": "flowers",
+      "id": "commons-157793055"
     }
   }
 }
