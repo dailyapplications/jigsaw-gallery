@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-03": {
-      "category": "birds",
-      "id": "commons-77704644"
-    },
     "2026-11-04": {
       "category": "birds",
       "id": "commons-194549514"
@@ -179,6 +175,10 @@
     "2026-12-17": {
       "category": "flowers",
       "id": "commons-157793055"
+    },
+    "2026-12-18": {
+      "category": "mountains",
+      "id": "commons-120818047"
     }
   }
 }
