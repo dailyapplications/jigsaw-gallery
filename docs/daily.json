@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-05": {
-      "category": "wildlife",
-      "id": "commons-178430232"
-    },
     "2026-11-06": {
       "category": "architecture",
       "id": "commons-149843911"
@@ -179,6 +175,10 @@
     "2026-12-19": {
       "category": "seasons",
       "id": "commons-185116316"
+    },
+    "2026-12-20": {
+      "category": "colour",
+      "id": "cleveland-314417"
     }
   }
 }
