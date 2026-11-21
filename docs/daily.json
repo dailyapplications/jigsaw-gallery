@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-06": {
-      "category": "architecture",
-      "id": "commons-149843911"
-    },
     "2026-11-07": {
       "category": "food",
       "id": "commons-168164411"
@@ -179,6 +175,10 @@
     "2026-12-20": {
       "category": "colour",
       "id": "cleveland-314417"
+    },
+    "2026-12-21": {
+      "category": "birds",
+      "id": "commons-77704644"
     }
   }
 }
