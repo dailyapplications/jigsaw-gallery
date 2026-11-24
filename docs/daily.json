@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-09": {
-      "category": "flowers",
-      "id": "commons-169304169"
-    },
     "2026-11-10": {
       "category": "forests",
       "id": "commons-168731500"
@@ -179,6 +175,10 @@
     "2026-12-23": {
       "category": "architecture",
       "id": "commons-145829009"
+    },
+    "2026-12-24": {
+      "category": "seaside",
+      "id": "commons-114833584"
     }
   }
 }
