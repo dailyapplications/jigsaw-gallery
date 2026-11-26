@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-11": {
-      "category": "colour",
-      "id": "commons-35566767"
-    },
     "2026-11-12": {
       "category": "colour",
       "id": "cleveland-131820"
@@ -179,6 +175,10 @@
     "2026-12-25": {
       "category": "impressionism",
       "id": "met-459112"
+    },
+    "2026-12-26": {
+      "category": "ukiyoe",
+      "id": "met-36937"
     }
   }
 }
