@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-12": {
-      "category": "colour",
-      "id": "cleveland-131820"
-    },
     "2026-11-13": {
       "category": "colour",
       "id": "cleveland-146201"
@@ -179,6 +175,10 @@
     "2026-12-26": {
       "category": "ukiyoe",
       "id": "met-36937"
+    },
+    "2026-12-27": {
+      "category": "pets",
+      "id": "commons-143121979"
     }
   }
 }
