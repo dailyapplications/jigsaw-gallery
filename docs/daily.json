@@ -1,9 +1,5 @@
 {
   "days": {
-    "2026-11-13": {
-      "category": "colour",
-      "id": "cleveland-146201"
-    },
     "2026-11-14": {
       "category": "wildlife",
       "id": "commons-193292258"
@@ -179,6 +175,10 @@
     "2026-12-27": {
       "category": "pets",
       "id": "commons-143121979"
+    },
+    "2026-12-28": {
+      "category": "wildlife",
+      "id": "commons-178430232"
     }
   }
 }
